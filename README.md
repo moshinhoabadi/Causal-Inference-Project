@@ -8,8 +8,8 @@ In the project we tried to determine the affect of holding the ball in the first
 ## The data
 
 The data was mainly taken from two kaggle datasets:
-European Soccer Database: https://www.kaggle.com/hugomathien/soccer
-Supplementary Database: https://www.kaggle.com/jiezi2004/soccer
+1. European Soccer Database: https://www.kaggle.com/hugomathien/soccer
+2. Supplementary Database: https://www.kaggle.com/jiezi2004/soccer
 
 
 ## The files
