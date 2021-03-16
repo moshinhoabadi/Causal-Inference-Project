@@ -15,11 +15,14 @@ The data was mainly taken from two kaggle datasets:
 ## The files
 
 These are the code files we used:
-- 'EDA.ipynb': We used this notebook for understanding the dataset before starting to work on the project. 
+- `EDA.ipynb`: We used this notebook for understanding the dataset before starting to work on the project. 
 - `dataset_creation.ipynb`: We used this notebook for creating the required files from the raw dataset.
 - `ATE_computations.py`:  We used this code for computing the ATE using several algorithms in several conditions.
 - `main_analysis.ipynb`: We used this notebook for visualizing the results.
 
 
+In addition, the repository contains the data directory that holds raw and transformed data, and the results directory that holds the ATE results for the several conditions we tried.
 
-note: the main database file is not found on this repository because its too heavy. you can download from Kaggle and add to the data directory to run the repository by yourself.
+
+
+Note: the main database file is not found on this repository because it is too heavy. you can download from Kaggle and add to the data directory to run the repository by yourself.
