@@ -15,9 +15,9 @@ The data was mainly taken from two kaggle datasets:
 ## The files
 
 There are some main files on this repository:
-- dataset_creation.ipynb: is used to create the required files from the raw dataset.
-- ATE_computations.py: is used to compute ATE values using several algorithms in several conditions.
-- main_analysis.ipynb: is used to visualize the results of the ATE values.
+- `dataset_creation.ipynb`: is used to create the required files from the raw dataset.
+- `ATE_computations.py`: is used to compute ATE values using several algorithms in several conditions.
+- `main_analysis.ipynb`: is used to visualize the results of the ATE values.
 
 
 
