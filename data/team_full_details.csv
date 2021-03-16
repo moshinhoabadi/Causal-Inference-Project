@@ -1,0 +1,568 @@
+,team_long_name,team_id,season,buildUpPlaySpeed,buildUpPlaySpeedClass,buildUpPlayDribblingClass,buildUpPlayPassing,buildUpPlayPassingClass,buildUpPlayPositioningClass,chanceCreationPassing,chanceCreationPassingClass,chanceCreationCrossing,chanceCreationCrossingClass,chanceCreationShooting,chanceCreationShootingClass,chanceCreationPositioningClass,defencePressure,defencePressureClass,defenceAggression,defenceAggressionClass,defenceTeamWidth,defenceTeamWidthClass,defenceDefenderLineClass,field players rating,gk rating
+0,Manchester United,10260.0,2008/2009,70,Fast,Little,45,Mixed,Organised,45,Normal,70,Lots,65,Normal,Free Form,40,Medium,50,Press,40,Normal,Cover,82.52631578947368,83.36842105263158
+1,Manchester United,10260.0,2009/2010,70,Fast,Little,45,Mixed,Organised,45,Normal,70,Lots,65,Normal,Free Form,40,Medium,50,Press,40,Normal,Cover,82.51052631578948,78.52631578947368
+2,Manchester United,10260.0,2010/2011,65,Balanced,Little,40,Mixed,Organised,65,Normal,65,Normal,70,Lots,Free Form,45,Medium,45,Press,65,Normal,Cover,81.8,83.0
+3,Manchester United,10260.0,2011/2012,46,Balanced,Little,54,Mixed,Organised,46,Normal,60,Normal,55,Normal,Organised,40,Medium,50,Press,56,Normal,Cover,81.3,75.6
+4,Manchester United,10260.0,2012/2013,46,Balanced,Little,38,Mixed,Organised,46,Normal,68,Lots,37,Normal,Organised,49,Medium,49,Press,56,Normal,Cover,81.52,80.0
+5,Manchester United,10260.0,2013/2014,46,Balanced,Little,38,Mixed,Organised,46,Normal,68,Lots,37,Normal,Organised,49,Medium,49,Press,56,Normal,Cover,80.33636363636364,82.0
+6,Manchester United,10260.0,2014/2015,46,Balanced,Normal,54,Mixed,Organised,49,Normal,72,Lots,56,Normal,Organised,42,Medium,41,Press,56,Normal,Cover,79.9,84.0
+7,Manchester United,10260.0,2015/2016,38,Balanced,Normal,44,Mixed,Organised,49,Normal,44,Normal,40,Normal,Organised,54,Medium,53,Press,56,Normal,Cover,79.85,84.75
+8,Newcastle United,10261.0,2008/2009,70,Fast,Little,60,Mixed,Organised,65,Normal,70,Lots,60,Normal,Organised,45,Medium,65,Press,45,Normal,Cover,75.17272727272727,80.27272727272727
+9,Newcastle United,10261.0,2010/2011,55,Balanced,Little,50,Mixed,Organised,60,Normal,50,Normal,60,Normal,Organised,45,Medium,45,Press,50,Normal,Cover,75.22,74.0
+10,Newcastle United,10261.0,2011/2012,54,Balanced,Little,54,Mixed,Organised,54,Normal,68,Lots,48,Normal,Organised,52,Medium,48,Press,42,Normal,Cover,76.4,78.0
+11,Newcastle United,10261.0,2012/2013,58,Balanced,Little,72,Long,Organised,48,Normal,51,Normal,46,Normal,Organised,41,Medium,39,Press,51,Normal,Cover,77.45555555555555,75.88888888888889
+12,Newcastle United,10261.0,2013/2014,58,Balanced,Little,72,Long,Organised,48,Normal,51,Normal,46,Normal,Organised,41,Medium,39,Press,51,Normal,Cover,76.05833333333334,79.0
+13,Newcastle United,10261.0,2014/2015,54,Balanced,Little,47,Mixed,Organised,47,Normal,51,Normal,39,Normal,Organised,56,Medium,54,Press,51,Normal,Cover,74.34666666666666,76.2
+14,Newcastle United,10261.0,2015/2016,58,Balanced,Normal,49,Mixed,Organised,47,Normal,54,Normal,46,Normal,Organised,41,Medium,39,Press,51,Normal,Cover,75.59285714285714,70.57142857142857
+15,Arsenal,9825.0,2008/2009,66,Balanced,Little,30,Short,Free Form,30,Safe,45,Normal,35,Normal,Free Form,30,Deep,40,Press,50,Normal,Cover,80.3625,77.75
+16,Arsenal,9825.0,2009/2010,66,Balanced,Little,30,Short,Free Form,30,Safe,45,Normal,35,Normal,Free Form,30,Deep,40,Press,50,Normal,Cover,81.38125,77.0
+17,Arsenal,9825.0,2010/2011,75,Fast,Little,40,Mixed,Free Form,40,Normal,45,Normal,65,Normal,Free Form,50,Medium,40,Press,45,Normal,Cover,81.21666666666667,76.0
+18,Arsenal,9825.0,2011/2012,25,Slow,Little,32,Short,Organised,41,Normal,34,Normal,30,Little,Free Form,57,Medium,57,Press,52,Normal,Cover,80.03333333333333,80.0
+19,Arsenal,9825.0,2012/2013,30,Slow,Little,29,Short,Organised,41,Normal,55,Normal,39,Normal,Free Form,64,Medium,54,Press,52,Normal,Cover,79.775,77.75
+20,Arsenal,9825.0,2013/2014,30,Slow,Little,29,Short,Organised,41,Normal,55,Normal,39,Normal,Free Form,64,Medium,54,Press,52,Normal,Cover,80.94117647058823,80.0
+21,Arsenal,9825.0,2014/2015,59,Balanced,Normal,26,Short,Organised,28,Safe,55,Normal,64,Normal,Free Form,51,Medium,44,Press,52,Normal,Cover,78.64666666666666,77.93333333333334
+22,Arsenal,9825.0,2015/2016,59,Balanced,Normal,30,Short,Organised,28,Safe,44,Normal,46,Normal,Free Form,51,Medium,44,Press,52,Normal,Cover,80.47894736842105,85.15789473684211
+23,West Bromwich Albion,8659.0,2008/2009,65,Balanced,Little,40,Mixed,Organised,70,Risky,70,Lots,55,Normal,Organised,70,High,70,Double,70,Wide,Cover,70.27222222222223,75.44444444444444
+24,West Bromwich Albion,8659.0,2010/2011,60,Balanced,Little,65,Mixed,Organised,40,Normal,50,Normal,45,Normal,Organised,35,Medium,55,Press,60,Normal,Cover,72.84057971014492,74.71428571428571
+25,West Bromwich Albion,8659.0,2011/2012,48,Balanced,Little,48,Mixed,Organised,45,Normal,60,Normal,54,Normal,Organised,38,Medium,38,Press,52,Normal,Cover,72.84126984126983,77.46153846153847
+26,West Bromwich Albion,8659.0,2012/2013,55,Balanced,Little,54,Mixed,Organised,57,Normal,53,Normal,57,Normal,Organised,33,Deep,31,Contain,49,Normal,Cover,72.81428571428572,77.28571428571429
+27,West Bromwich Albion,8659.0,2013/2014,55,Balanced,Little,54,Mixed,Organised,57,Normal,53,Normal,57,Normal,Organised,33,Deep,31,Contain,49,Normal,Cover,73.5764705882353,75.88235294117646
+28,West Bromwich Albion,8659.0,2014/2015,55,Balanced,Normal,51,Mixed,Organised,53,Normal,53,Normal,57,Normal,Organised,41,Medium,40,Press,49,Normal,Cover,73.33636363636364,76.63636363636364
+29,West Bromwich Albion,8659.0,2015/2016,62,Balanced,Little,51,Mixed,Organised,53,Normal,50,Normal,60,Normal,Organised,41,Medium,40,Press,49,Normal,Cover,74.49545454545455,75.18181818181819
+30,Sunderland,8472.0,2008/2009,60,Balanced,Little,70,Long,Organised,70,Risky,70,Lots,55,Normal,Organised,35,Medium,70,Double,35,Normal,Cover,74.04444444444445,71.0
+31,Sunderland,8472.0,2009/2010,60,Balanced,Little,70,Long,Organised,70,Risky,70,Lots,55,Normal,Organised,35,Medium,70,Double,35,Normal,Cover,75.24,75.66666666666667
+32,Sunderland,8472.0,2010/2011,55,Balanced,Little,55,Mixed,Organised,55,Normal,65,Normal,55,Normal,Organised,45,Medium,55,Press,65,Normal,Cover,76.11428571428571,76.14285714285714
+33,Sunderland,8472.0,2011/2012,67,Fast,Little,62,Mixed,Organised,44,Normal,72,Lots,59,Normal,Organised,47,Medium,53,Press,60,Normal,Cover,75.45,74.0
+34,Sunderland,8472.0,2012/2013,57,Balanced,Little,66,Mixed,Organised,56,Normal,31,Little,72,Lots,Organised,47,Medium,52,Press,49,Normal,Cover,75.17777777777778,76.0
+35,Sunderland,8472.0,2013/2014,57,Balanced,Little,66,Mixed,Organised,56,Normal,31,Little,72,Lots,Organised,47,Medium,52,Press,49,Normal,Cover,73.38461538461539,71.92307692307692
+36,Sunderland,8472.0,2014/2015,60,Balanced,Little,61,Mixed,Organised,56,Normal,44,Normal,58,Normal,Organised,41,Medium,38,Press,53,Normal,Cover,73.88947368421053,74.0
+37,Sunderland,8472.0,2015/2016,43,Balanced,Normal,51,Mixed,Organised,59,Normal,50,Normal,55,Normal,Organised,47,Medium,45,Press,49,Normal,Cover,74.95555555555555,74.72222222222223
+38,Liverpool,8650.0,2008/2009,50,Balanced,Little,35,Mixed,Organised,50,Normal,60,Normal,70,Lots,Organised,40,Medium,60,Press,40,Normal,Cover,81.33888888888889,84.0
+39,Liverpool,8650.0,2009/2010,50,Balanced,Little,35,Mixed,Organised,50,Normal,60,Normal,70,Lots,Organised,40,Medium,60,Press,40,Normal,Cover,82.02222222222223,84.0
+40,Liverpool,8650.0,2010/2011,60,Balanced,Little,50,Mixed,Organised,40,Normal,45,Normal,60,Normal,Organised,55,Medium,55,Press,50,Normal,Cover,79.3,85.0
+41,Liverpool,8650.0,2011/2012,60,Balanced,Little,60,Mixed,Organised,48,Normal,73,Lots,53,Normal,Organised,50,Medium,48,Press,62,Normal,Cover,79.6875,85.0
+42,Liverpool,8650.0,2012/2013,39,Balanced,Little,44,Mixed,Organised,42,Normal,34,Normal,54,Normal,Organised,59,Medium,52,Press,61,Normal,Cover,79.34545454545454,79.45454545454545
+43,Liverpool,8650.0,2013/2014,39,Balanced,Little,44,Mixed,Organised,42,Normal,34,Normal,54,Normal,Organised,59,Medium,52,Press,61,Normal,Cover,79.04444444444445,81.0
+44,Liverpool,8650.0,2014/2015,71,Fast,Normal,32,Short,Organised,34,Normal,41,Normal,61,Normal,Organised,51,Medium,48,Press,62,Normal,Cover,78.48235294117647,79.47058823529412
+45,Liverpool,8650.0,2015/2016,66,Balanced,Normal,45,Mixed,Organised,34,Normal,34,Normal,46,Normal,Organised,51,Medium,52,Press,61,Normal,Cover,78.29444444444445,77.44444444444444
+46,West Ham United,8654.0,2008/2009,58,Balanced,Little,30,Short,Organised,31,Safe,70,Lots,50,Normal,Organised,30,Deep,70,Double,30,Narrow,Cover,74.56852791878173,80.0
+47,West Ham United,8654.0,2009/2010,58,Balanced,Little,30,Short,Organised,31,Safe,70,Lots,50,Normal,Organised,30,Deep,70,Double,30,Narrow,Cover,73.27857142857142,81.0
+48,West Ham United,8654.0,2010/2011,35,Balanced,Little,35,Mixed,Organised,30,Safe,45,Normal,45,Normal,Organised,45,Medium,45,Press,50,Normal,Cover,72.82307692307693,77.3076923076923
+49,West Ham United,8654.0,2012/2013,72,Fast,Little,73,Long,Organised,61,Normal,74,Lots,32,Little,Organised,30,Deep,37,Press,41,Normal,Cover,72.4,72.0
+50,West Ham United,8654.0,2013/2014,72,Fast,Little,73,Long,Organised,61,Normal,74,Lots,32,Little,Organised,30,Deep,37,Press,41,Normal,Cover,73.10526315789474,74.15789473684211
+51,West Ham United,8654.0,2014/2015,72,Fast,Normal,73,Long,Organised,68,Risky,71,Lots,32,Little,Organised,30,Deep,34,Press,41,Normal,Cover,73.575,77.0
+52,West Ham United,8654.0,2015/2016,77,Fast,Normal,57,Mixed,Organised,68,Risky,73,Lots,29,Little,Organised,30,Deep,37,Press,41,Normal,Cover,76.04651162790698,76.61538461538461
+53,Wigan Athletic,8528.0,2008/2009,70,Fast,Little,70,Long,Organised,70,Risky,70,Lots,50,Normal,Organised,35,Medium,70,Double,35,Normal,Cover,73.89166666666667,76.0
+54,Wigan Athletic,8528.0,2009/2010,70,Fast,Little,70,Long,Organised,70,Risky,70,Lots,50,Normal,Organised,35,Medium,70,Double,35,Normal,Cover,74.43636363636364,75.18181818181819
+55,Wigan Athletic,8528.0,2010/2011,35,Balanced,Little,50,Mixed,Organised,45,Normal,65,Normal,50,Normal,Organised,45,Medium,55,Press,65,Normal,Cover,72.35555555555555,74.0
+56,Wigan Athletic,8528.0,2011/2012,38,Balanced,Little,38,Mixed,Organised,54,Normal,42,Normal,42,Normal,Organised,40,Medium,42,Press,44,Normal,Cover,71.52,77.0
+57,Wigan Athletic,8528.0,2012/2013,38,Balanced,Little,39,Mixed,Organised,43,Normal,42,Normal,34,Normal,Free Form,56,Medium,52,Press,44,Normal,Cover,73.4875,78.25
+58,Aston Villa,10252.0,2008/2009,70,Fast,Little,59,Mixed,Organised,65,Normal,70,Lots,50,Normal,Free Form,30,Deep,70,Double,30,Narrow,Cover,78.70526315789473,82.0
+59,Aston Villa,10252.0,2009/2010,70,Fast,Little,59,Mixed,Organised,65,Normal,70,Lots,50,Normal,Free Form,30,Deep,70,Double,30,Narrow,Cover,80.10909090909091,82.0
+60,Aston Villa,10252.0,2010/2011,65,Balanced,Little,50,Mixed,Organised,45,Normal,55,Normal,50,Normal,Organised,35,Medium,45,Press,65,Normal,Cover,78.14,80.0
+61,Aston Villa,10252.0,2011/2012,67,Fast,Little,58,Mixed,Organised,44,Normal,60,Normal,56,Normal,Organised,43,Medium,50,Press,52,Normal,Cover,74.775,81.125
+62,Aston Villa,10252.0,2012/2013,63,Balanced,Little,59,Mixed,Organised,52,Normal,55,Normal,34,Normal,Organised,39,Medium,41,Press,54,Normal,Cover,71.71,76.0
+63,Aston Villa,10252.0,2013/2014,63,Balanced,Little,59,Mixed,Organised,52,Normal,55,Normal,34,Normal,Organised,39,Medium,41,Press,54,Normal,Cover,72.62941176470588,79.0
+64,Aston Villa,10252.0,2014/2015,66,Balanced,Little,72,Long,Organised,63,Normal,48,Normal,56,Normal,Organised,39,Medium,42,Press,52,Normal,Cover,73.83333333333333,76.66666666666667
+65,Aston Villa,10252.0,2015/2016,63,Balanced,Normal,54,Mixed,Organised,60,Normal,48,Normal,38,Normal,Organised,35,Medium,44,Press,54,Normal,Cover,74.42777777777778,74.33333333333333
+66,Manchester City,8456.0,2008/2009,70,Fast,Little,60,Mixed,Organised,55,Normal,70,Lots,70,Lots,Organised,45,Medium,55,Press,45,Normal,Cover,78.33636363636364,81.36363636363636
+67,Manchester City,8456.0,2009/2010,70,Fast,Little,60,Mixed,Organised,55,Normal,70,Lots,70,Lots,Organised,45,Medium,55,Press,45,Normal,Cover,81.43537414965986,83.4
+68,Manchester City,8456.0,2010/2011,70,Fast,Little,60,Mixed,Organised,70,Risky,65,Normal,75,Lots,Free Form,65,Medium,65,Press,50,Normal,Cover,80.98571428571428,82.0
+69,Manchester City,8456.0,2011/2012,45,Balanced,Little,55,Mixed,Organised,40,Normal,38,Normal,48,Normal,Free Form,50,Medium,60,Press,54,Normal,Cover,83.08,83.0
+70,Manchester City,8456.0,2012/2013,36,Balanced,Little,34,Mixed,Organised,39,Normal,44,Normal,38,Normal,Free Form,42,Medium,44,Press,54,Normal,Cover,82.71,84.0
+71,Manchester City,8456.0,2013/2014,36,Balanced,Little,34,Mixed,Organised,39,Normal,44,Normal,38,Normal,Free Form,42,Medium,44,Press,54,Normal,Cover,82.77894736842106,81.3157894736842
+72,Manchester City,8456.0,2014/2015,59,Balanced,Normal,29,Short,Organised,32,Safe,49,Normal,62,Normal,Organised,42,Medium,44,Press,54,Normal,Cover,82.26086956521739,82.65217391304348
+73,Manchester City,8456.0,2015/2016,59,Balanced,Normal,29,Short,Free Form,38,Normal,36,Normal,24,Little,Free Form,48,Medium,47,Press,54,Normal,Cover,81.8952380952381,84.23809523809524
+74,Everton,8668.0,2008/2009,60,Balanced,Little,65,Mixed,Organised,60,Normal,70,Lots,45,Normal,Organised,40,Medium,70,Double,40,Normal,Cover,77.65714285714286,84.0
+75,Everton,8668.0,2009/2010,60,Balanced,Little,65,Mixed,Organised,60,Normal,70,Lots,45,Normal,Organised,40,Medium,70,Double,40,Normal,Cover,78.3,82.0
+76,Everton,8668.0,2010/2011,60,Balanced,Little,50,Mixed,Organised,55,Normal,70,Lots,55,Normal,Organised,55,Medium,65,Press,60,Normal,Cover,77.51,81.0
+77,Everton,8668.0,2011/2012,56,Balanced,Little,56,Mixed,Organised,48,Normal,57,Normal,56,Normal,Organised,50,Medium,50,Press,60,Normal,Cover,76.52,80.0
+78,Everton,8668.0,2012/2013,58,Balanced,Little,62,Mixed,Organised,48,Normal,59,Normal,32,Little,Organised,41,Medium,44,Press,59,Normal,Cover,77.32222222222222,81.0
+79,Everton,8668.0,2013/2014,58,Balanced,Little,62,Mixed,Organised,48,Normal,59,Normal,32,Little,Organised,41,Medium,44,Press,59,Normal,Cover,77.64375,81.0
+80,Everton,8668.0,2014/2015,61,Balanced,Normal,42,Mixed,Organised,39,Normal,59,Normal,48,Normal,Organised,52,Medium,58,Press,60,Normal,Cover,77.95555555555555,79.5
+81,Everton,8668.0,2015/2016,43,Balanced,Normal,40,Mixed,Organised,39,Normal,33,Little,63,Normal,Organised,52,Medium,58,Press,59,Normal,Cover,78.07894736842105,77.47368421052632
+82,Blackburn Rovers,8655.0,2008/2009,55,Balanced,Little,70,Long,Organised,60,Normal,70,Lots,55,Normal,Organised,45,Medium,70,Double,45,Normal,Cover,75.16666666666667,76.71428571428571
+83,Blackburn Rovers,8655.0,2009/2010,55,Balanced,Little,70,Long,Organised,60,Normal,70,Lots,55,Normal,Organised,45,Medium,70,Double,45,Normal,Cover,74.54444444444445,77.0
+84,Blackburn Rovers,8655.0,2010/2011,55,Balanced,Little,65,Mixed,Organised,50,Normal,50,Normal,35,Normal,Organised,45,Medium,60,Press,55,Normal,Cover,75.3,79.0
+85,Blackburn Rovers,8655.0,2011/2012,57,Balanced,Little,57,Mixed,Organised,55,Normal,45,Normal,40,Normal,Organised,42,Medium,50,Press,38,Normal,Cover,73.12,76.7
+86,Middlesbrough,8549.0,2008/2009,70,Fast,Little,70,Long,Organised,70,Risky,70,Lots,50,Normal,Organised,30,Deep,70,Double,30,Narrow,Cover,74.13125,73.0
+87,Tottenham Hotspur,8586.0,2008/2009,70,Fast,Little,50,Mixed,Organised,50,Normal,65,Normal,50,Normal,Organised,50,Medium,50,Press,50,Normal,Cover,77.76875,74.375
+88,Tottenham Hotspur,8586.0,2009/2010,70,Fast,Little,50,Mixed,Organised,50,Normal,65,Normal,50,Normal,Organised,50,Medium,50,Press,50,Normal,Cover,79.40714285714286,80.92857142857143
+89,Tottenham Hotspur,8586.0,2010/2011,60,Balanced,Little,55,Mixed,Free Form,70,Risky,70,Lots,70,Lots,Organised,30,Deep,40,Press,60,Normal,Cover,80.42,79.8
+90,Tottenham Hotspur,8586.0,2011/2012,44,Balanced,Little,47,Mixed,Organised,52,Normal,63,Normal,61,Normal,Organised,43,Medium,44,Press,51,Normal,Cover,81.1,81.0
+91,Tottenham Hotspur,8586.0,2012/2013,42,Balanced,Little,46,Mixed,Organised,45,Normal,58,Normal,68,Lots,Organised,63,Medium,61,Press,57,Normal,Cover,79.78888888888889,83.33333333333333
+92,Tottenham Hotspur,8586.0,2013/2014,42,Balanced,Little,46,Mixed,Organised,45,Normal,58,Normal,68,Lots,Organised,63,Medium,61,Press,57,Normal,Cover,,83.6875
+93,Tottenham Hotspur,8586.0,2014/2015,41,Balanced,Normal,38,Mixed,Organised,41,Normal,59,Normal,62,Normal,Organised,58,Medium,51,Press,56,Normal,Cover,,84.33333333333333
+94,Tottenham Hotspur,8586.0,2015/2016,47,Balanced,Normal,40,Mixed,Organised,41,Normal,41,Normal,63,Normal,Organised,63,Medium,54,Press,56,Normal,Cover,,85.0
+95,Bolton Wanderers,8559.0,2008/2009,55,Balanced,Little,70,Long,Organised,70,Risky,70,Lots,45,Normal,Organised,35,Medium,70,Double,35,Normal,Cover,73.71052631578948,80.0
+96,Bolton Wanderers,8559.0,2009/2010,55,Balanced,Little,70,Long,Organised,70,Risky,70,Lots,45,Normal,Organised,35,Medium,70,Double,35,Normal,Cover,72.21818181818182,80.0
+97,Bolton Wanderers,8559.0,2010/2011,45,Balanced,Little,70,Long,Organised,55,Normal,70,Lots,50,Normal,Organised,40,Medium,55,Press,50,Normal,Cover,74.6,79.0
+98,Bolton Wanderers,8559.0,2011/2012,57,Balanced,Little,56,Mixed,Organised,45,Normal,54,Normal,54,Normal,Organised,48,Medium,48,Press,58,Normal,Cover,72.24285714285715,73.57142857142857
+99,Stoke City,10194.0,2008/2009,65,Balanced,Little,70,Long,Organised,70,Risky,70,Lots,55,Normal,Organised,35,Medium,70,Double,35,Normal,Cover,70.38888888888889,74.33333333333333
+100,Stoke City,10194.0,2009/2010,65,Balanced,Little,70,Long,Organised,70,Risky,70,Lots,55,Normal,Organised,35,Medium,70,Double,35,Normal,Cover,73.2,74.0
+101,Stoke City,10194.0,2010/2011,50,Balanced,Little,80,Long,Organised,30,Safe,70,Lots,35,Normal,Organised,25,Deep,65,Press,50,Normal,Cover,74.77777777777777,75.0
+102,Stoke City,10194.0,2011/2012,75,Fast,Little,75,Long,Organised,40,Normal,72,Lots,55,Normal,Organised,50,Medium,58,Press,45,Normal,Cover,75.2625,75.5
+103,Stoke City,10194.0,2012/2013,75,Fast,Little,73,Long,Organised,59,Normal,61,Normal,38,Normal,Organised,32,Deep,37,Press,41,Normal,Cover,74.88,79.0
+104,Stoke City,10194.0,2013/2014,75,Fast,Little,73,Long,Organised,59,Normal,61,Normal,38,Normal,Organised,32,Deep,37,Press,41,Normal,Cover,74.21428571428571,78.92857142857143
+105,Stoke City,10194.0,2014/2015,48,Balanced,Little,55,Mixed,Organised,51,Normal,57,Normal,37,Normal,Organised,38,Medium,40,Press,41,Normal,Cover,74.31111111111112,80.5
+106,Stoke City,10194.0,2015/2016,48,Balanced,Normal,49,Mixed,Organised,51,Normal,59,Normal,49,Normal,Organised,44,Medium,37,Press,51,Normal,Cover,76.35454545454546,76.0909090909091
+107,Hull City,8667.0,2008/2009,65,Balanced,Little,60,Mixed,Organised,70,Risky,70,Lots,55,Normal,Organised,70,High,70,Double,70,Wide,Cover,71.98333333333333,74.16666666666667
+108,Hull City,8667.0,2009/2010,65,Balanced,Little,60,Mixed,Organised,70,Risky,70,Lots,55,Normal,Organised,70,High,70,Double,70,Wide,Cover,70.1923076923077,70.76923076923077
+109,Hull City,8667.0,2013/2014,63,Balanced,Little,48,Mixed,Organised,38,Normal,60,Normal,54,Normal,Organised,34,Medium,37,Press,46,Normal,Cover,71.675,71.25
+110,Hull City,8667.0,2014/2015,56,Balanced,Normal,51,Mixed,Organised,54,Normal,60,Normal,48,Normal,Organised,38,Medium,37,Press,46,Normal,Cover,72.60555555555555,71.11111111111111
+111,Fulham,9879.0,2008/2009,60,Balanced,Little,70,Long,Organised,70,Risky,70,Lots,50,Normal,Organised,40,Medium,35,Press,40,Normal,Cover,75.52857142857142,77.0
+112,Fulham,9879.0,2009/2010,60,Balanced,Little,70,Long,Organised,70,Risky,70,Lots,50,Normal,Organised,40,Medium,35,Press,40,Normal,Cover,76.02307692307693,79.0
+113,Fulham,9879.0,2010/2011,50,Balanced,Little,55,Mixed,Organised,45,Normal,55,Normal,40,Normal,Organised,45,Medium,35,Press,50,Normal,Cover,76.42,80.0
+114,Fulham,9879.0,2011/2012,48,Balanced,Little,45,Mixed,Organised,38,Normal,62,Normal,54,Normal,Organised,38,Medium,38,Press,62,Normal,Cover,75.85555555555555,78.44444444444444
+115,Fulham,9879.0,2012/2013,52,Balanced,Little,49,Mixed,Organised,49,Normal,56,Normal,59,Normal,Organised,39,Medium,39,Press,57,Normal,Cover,75.95,79.0
+116,Fulham,9879.0,2013/2014,52,Balanced,Little,49,Mixed,Organised,49,Normal,56,Normal,59,Normal,Organised,39,Medium,39,Press,57,Normal,Cover,74.86,76.0
+117,Chelsea,8455.0,2008/2009,70,Fast,Little,60,Mixed,Free Form,56,Normal,70,Lots,70,Lots,Free Form,30,Deep,60,Press,35,Normal,Cover,83.29411764705883,87.3529411764706
+118,Chelsea,8455.0,2009/2010,70,Fast,Little,60,Mixed,Free Form,56,Normal,70,Lots,70,Lots,Free Form,30,Deep,60,Press,35,Normal,Cover,83.77058823529411,84.3529411764706
+119,Chelsea,8455.0,2010/2011,60,Balanced,Little,50,Mixed,Free Form,60,Normal,60,Normal,80,Lots,Free Form,35,Medium,55,Press,50,Normal,Cover,82.7,84.0
+120,Chelsea,8455.0,2011/2012,60,Balanced,Little,45,Mixed,Organised,55,Normal,45,Normal,45,Normal,Organised,60,Medium,62,Press,46,Normal,Cover,81.57777777777778,82.77777777777777
+121,Chelsea,8455.0,2012/2013,46,Balanced,Little,41,Mixed,Organised,46,Normal,61,Normal,63,Normal,Organised,42,Medium,43,Press,46,Normal,Cover,81.33333333333333,83.0
+122,Chelsea,8455.0,2013/2014,46,Balanced,Little,41,Mixed,Organised,46,Normal,61,Normal,63,Normal,Organised,42,Medium,43,Press,46,Normal,Cover,81.32105263157895,83.52631578947368
+123,Chelsea,8455.0,2014/2015,67,Fast,Normal,38,Mixed,Organised,41,Normal,61,Normal,68,Lots,Organised,39,Medium,41,Press,46,Normal,Cover,82.66842105263157,85.84210526315789
+124,Chelsea,8455.0,2015/2016,67,Fast,Normal,36,Mixed,Organised,41,Normal,34,Normal,44,Normal,Organised,39,Medium,41,Press,46,Normal,Cover,82.4,84.82352941176471
+125,Portsmouth,8462.0,2008/2009,70,Fast,Little,70,Long,Organised,70,Risky,70,Lots,55,Normal,Organised,40,Medium,70,Double,40,Normal,Cover,75.8375,82.0
+126,Portsmouth,8462.0,2009/2010,70,Fast,Little,70,Long,Organised,70,Risky,70,Lots,55,Normal,Organised,40,Medium,70,Double,40,Normal,Cover,72.52857142857142,77.21428571428571
+127,Birmingham City,8658.0,2009/2010,70,Fast,Little,70,Long,Organised,70,Risky,70,Lots,70,Lots,Organised,70,High,70,Double,70,Wide,Cover,76.97142857142858,79.0
+128,Birmingham City,8658.0,2010/2011,45,Balanced,Little,60,Mixed,Organised,35,Normal,50,Normal,40,Normal,Organised,30,Deep,60,Press,45,Normal,Cover,75.65,80.0
+129,Wolverhampton Wanderers,8602.0,2009/2010,70,Fast,Little,70,Long,Organised,70,Risky,70,Lots,70,Lots,Organised,70,High,70,Double,70,Wide,Cover,69.81666666666666,73.58333333333333
+130,Wolverhampton Wanderers,8602.0,2010/2011,55,Balanced,Little,55,Mixed,Organised,60,Normal,60,Normal,45,Normal,Organised,45,Medium,45,Press,50,Normal,Cover,71.3,73.4
+131,Wolverhampton Wanderers,8602.0,2011/2012,67,Fast,Little,68,Long,Organised,42,Normal,68,Lots,56,Normal,Organised,48,Medium,60,Press,45,Normal,Cover,73.3625,76.125
+132,Burnley,8191.0,2009/2010,70,Fast,Little,65,Mixed,Organised,70,Risky,70,Lots,70,Lots,Organised,65,Medium,70,Double,70,Wide,Cover,73.09302325581395,76.0
+133,Burnley,8191.0,2014/2015,48,Balanced,Little,74,Long,Organised,72,Risky,59,Normal,58,Normal,Organised,54,Medium,57,Press,58,Normal,Cover,70.53157894736842,72.0
+134,Blackpool,8483.0,2010/2011,70,Fast,Little,30,Short,Organised,65,Normal,30,Little,65,Normal,Organised,45,Medium,50,Press,45,Normal,Cover,73.5,71.5
+135,Swansea City,10003.0,2011/2012,26,Slow,Little,24,Short,Organised,62,Normal,39,Normal,57,Normal,Free Form,48,Medium,58,Press,60,Normal,Cover,72.13084112149532,81.0
+136,Swansea City,10003.0,2012/2013,41,Balanced,Little,39,Mixed,Organised,36,Normal,42,Normal,44,Normal,Free Form,52,Medium,58,Press,57,Normal,Cover,74.07,77.4
+137,Swansea City,10003.0,2013/2014,41,Balanced,Little,39,Mixed,Organised,36,Normal,42,Normal,44,Normal,Free Form,52,Medium,58,Press,57,Normal,Cover,75.34,78.13333333333334
+138,Swansea City,10003.0,2014/2015,63,Balanced,Normal,34,Mixed,Organised,34,Normal,51,Normal,36,Normal,Free Form,51,Medium,58,Press,54,Normal,Cover,74.8125,77.0
+139,Swansea City,10003.0,2015/2016,45,Balanced,Normal,42,Mixed,Organised,34,Normal,36,Normal,55,Normal,Free Form,31,Deep,47,Press,42,Normal,Cover,76.54444444444445,77.66666666666667
+140,Queens Park Rangers,10172.0,2011/2012,57,Balanced,Little,58,Mixed,Organised,60,Normal,48,Normal,48,Normal,Organised,42,Medium,51,Press,44,Normal,Cover,72.3,74.57142857142857
+141,Queens Park Rangers,10172.0,2012/2013,58,Balanced,Little,54,Mixed,Organised,53,Normal,39,Normal,54,Normal,Organised,49,Medium,47,Press,44,Normal,Cover,74.43333333333334,80.66666666666667
+142,Queens Park Rangers,10172.0,2014/2015,52,Balanced,Normal,53,Mixed,Organised,53,Normal,54,Normal,54,Normal,Organised,50,Medium,44,Press,54,Normal,Cover,74.07692307692308,75.92307692307692
+143,Norwich City,9850.0,2011/2012,63,Balanced,Little,61,Mixed,Organised,42,Normal,76,Lots,62,Normal,Organised,40,Medium,50,Press,42,Normal,Cover,70.35,74.0
+144,Norwich City,9850.0,2012/2013,70,Fast,Little,70,Long,Organised,56,Normal,67,Lots,48,Normal,Organised,40,Medium,43,Press,53,Normal,Cover,73.12,74.0
+145,Norwich City,9850.0,2013/2014,70,Fast,Little,70,Long,Organised,56,Normal,67,Lots,48,Normal,Organised,40,Medium,43,Press,53,Normal,Cover,73.81176470588235,79.0
+146,Norwich City,9850.0,2015/2016,45,Balanced,Normal,55,Mixed,Organised,46,Normal,54,Normal,47,Normal,Organised,38,Medium,39,Press,51,Normal,Cover,73.63157894736842,73.94736842105263
+147,Southampton,8466.0,2012/2013,47,Balanced,Little,38,Mixed,Organised,52,Normal,56,Normal,58,Normal,Free Form,57,Medium,63,Press,44,Normal,Cover,73.26,71.0
+148,Southampton,8466.0,2013/2014,47,Balanced,Little,38,Mixed,Organised,52,Normal,56,Normal,58,Normal,Free Form,57,Medium,63,Press,44,Normal,Cover,75.03076923076924,75.15384615384616
+149,Southampton,8466.0,2014/2015,47,Balanced,Normal,40,Mixed,Organised,42,Normal,56,Normal,51,Normal,Free Form,62,Medium,64,Press,44,Normal,Cover,75.95454545454545,73.45454545454545
+150,Southampton,8466.0,2015/2016,52,Balanced,Little,46,Mixed,Organised,42,Normal,54,Normal,30,Little,Organised,50,Medium,65,Press,44,Normal,Cover,76.44,76.0
+151,Reading,9798.0,2012/2013,49,Balanced,Little,61,Mixed,Organised,55,Normal,58,Normal,37,Normal,Organised,39,Medium,44,Press,52,Normal,Cover,70.375,71.5
+152,Crystal Palace,9826.0,2013/2014,52,Balanced,Little,47,Mixed,Organised,69,Risky,66,Normal,47,Normal,Organised,36,Medium,33,Contain,53,Normal,Cover,71.39444444444445,73.88888888888889
+153,Crystal Palace,9826.0,2014/2015,61,Balanced,Normal,68,Long,Organised,67,Risky,62,Normal,52,Normal,Organised,36,Medium,34,Press,48,Normal,Cover,73.15,74.86363636363636
+154,Crystal Palace,9826.0,2015/2016,61,Balanced,Normal,67,Long,Organised,67,Risky,69,Lots,50,Normal,Organised,36,Medium,34,Press,41,Normal,Cover,75.81333333333333,74.26666666666667
+155,Cardiff City,8344.0,2013/2014,60,Balanced,Little,69,Long,Organised,54,Normal,59,Normal,62,Normal,Organised,47,Medium,43,Press,56,Normal,Cover,72.50588235294117,73.0
+156,Leicester City,8197.0,2014/2015,63,Balanced,Normal,48,Mixed,Organised,47,Normal,62,Normal,69,Lots,Organised,58,Medium,62,Press,54,Normal,Cover,70.5,73.28571428571429
+157,Leicester City,8197.0,2015/2016,63,Balanced,Normal,60,Mixed,Organised,47,Normal,64,Normal,46,Normal,Organised,58,Medium,65,Press,55,Normal,Cover,73.93888888888888,76.0
+158,Bournemouth,8678.0,2015/2016,47,Balanced,Normal,47,Mixed,Organised,49,Normal,45,Normal,47,Normal,Organised,48,Medium,50,Press,62,Normal,Cover,71.94117647058823,75.47058823529412
+159,Watford,9817.0,2015/2016,61,Balanced,Little,52,Mixed,Organised,54,Normal,42,Normal,45,Normal,Free Form,38,Medium,52,Press,45,Normal,Cover,74.13333333333334,76.0
+160,FC Nantes,9830.0,2014/2015,63,Balanced,Normal,48,Mixed,Organised,52,Normal,55,Normal,49,Normal,Organised,47,Medium,51,Press,54,Normal,Cover,,75.0
+161,FC Nantes,9830.0,2015/2016,63,Balanced,Lots,56,Mixed,Organised,52,Normal,55,Normal,46,Normal,Organised,39,Medium,41,Press,52,Normal,Cover,72.03947368421052,77.75
+162,Girondins de Bordeaux,9827.0,2014/2015,38,Balanced,Normal,36,Mixed,Organised,49,Normal,55,Normal,51,Normal,Organised,37,Medium,33,Contain,49,Normal,Cover,72.63333333333334,80.0
+163,Girondins de Bordeaux,9827.0,2015/2016,51,Balanced,Normal,48,Mixed,Organised,49,Normal,63,Normal,44,Normal,Organised,57,Medium,52,Press,49,Normal,Cover,72.22222222222223,73.44444444444444
+164,SM Caen,7819.0,2014/2015,62,Balanced,Normal,45,Mixed,Organised,48,Normal,54,Normal,53,Normal,Organised,43,Medium,42,Press,51,Normal,Cover,68.75833333333334,71.0
+165,SM Caen,7819.0,2015/2016,62,Balanced,Normal,45,Mixed,Organised,48,Normal,54,Normal,53,Normal,Organised,43,Medium,42,Press,51,Normal,Cover,71.80314960629921,76.0
+166,OGC Nice,9831.0,2014/2015,48,Balanced,Normal,66,Mixed,Organised,49,Normal,66,Normal,34,Normal,Organised,56,Medium,47,Press,64,Normal,Cover,69.72857142857143,71.0
+167,OGC Nice,9831.0,2015/2016,48,Balanced,Normal,53,Mixed,Organised,49,Normal,66,Normal,38,Normal,Organised,57,Medium,47,Press,61,Normal,Cover,73.95625,67.25
+168,FC Lorient,8689.0,2014/2015,60,Balanced,Normal,42,Mixed,Organised,48,Normal,53,Normal,64,Normal,Organised,43,Medium,47,Press,48,Normal,Cover,70.14388489208633,71.0
+169,FC Lorient,8689.0,2015/2016,57,Balanced,Normal,50,Mixed,Organised,48,Normal,53,Normal,46,Normal,Organised,51,Medium,56,Press,55,Normal,Cover,71.38888888888889,76.0
+170,Olympique Lyonnais,9748.0,2014/2015,49,Balanced,Normal,52,Mixed,Organised,49,Normal,54,Normal,67,Lots,Organised,46,Medium,47,Press,47,Normal,Cover,74.46428571428571,78.0
+171,Olympique Lyonnais,9748.0,2015/2016,49,Balanced,Normal,52,Mixed,Organised,49,Normal,54,Normal,67,Lots,Organised,46,Medium,47,Press,47,Normal,Cover,76.845,80.1
+172,Toulouse FC,9941.0,2011/2012,49,Balanced,Little,53,Mixed,Organised,52,Normal,34,Normal,36,Normal,Organised,36,Medium,45,Press,49,Normal,Cover,74.3,73.0
+173,Toulouse FC,9941.0,2014/2015,49,Balanced,Normal,53,Mixed,Organised,52,Normal,34,Normal,57,Normal,Organised,36,Medium,52,Press,49,Normal,Cover,71.58,73.8
+174,Toulouse FC,9941.0,2015/2016,49,Balanced,Normal,53,Mixed,Organised,52,Normal,34,Normal,36,Normal,Organised,36,Medium,45,Press,49,Normal,Cover,72.87142857142857,68.57142857142857
+175,AS Monaco,9829.0,2014/2015,52,Balanced,Lots,48,Mixed,Organised,37,Normal,37,Normal,37,Normal,Organised,35,Medium,34,Press,51,Normal,Cover,76.26,78.0
+176,AS Monaco,9829.0,2015/2016,52,Balanced,Normal,43,Mixed,Organised,54,Normal,56,Normal,23,Little,Organised,56,Medium,62,Press,51,Normal,Cover,76.375,81.0
+177,Paris Saint-Germain,9847.0,2014/2015,49,Balanced,Lots,55,Mixed,Organised,62,Normal,61,Normal,68,Lots,Organised,57,Medium,53,Press,56,Normal,Cover,81.15714285714286,81.23809523809524
+178,Paris Saint-Germain,9847.0,2015/2016,49,Balanced,Normal,34,Mixed,Organised,62,Normal,61,Normal,35,Normal,Organised,57,Medium,53,Press,56,Normal,Cover,82.48571428571428,82.0
+179,LOSC Lille,8639.0,2014/2015,45,Balanced,Normal,42,Mixed,Organised,68,Risky,52,Normal,49,Normal,Organised,59,Medium,42,Press,48,Normal,Cover,73.34166666666667,81.0
+180,LOSC Lille,8639.0,2015/2016,45,Balanced,Normal,43,Mixed,Organised,68,Risky,52,Normal,64,Normal,Organised,59,Medium,42,Press,48,Normal,Cover,74.50909090909092,78.27272727272727
+181,Stade Rennais FC,9851.0,2014/2015,64,Balanced,Normal,41,Mixed,Organised,49,Normal,52,Normal,64,Normal,Organised,46,Medium,44,Press,51,Normal,Cover,72.74615384615385,79.0
+182,Stade Rennais FC,9851.0,2015/2016,64,Balanced,Normal,41,Mixed,Organised,49,Normal,52,Normal,64,Normal,Organised,46,Medium,44,Press,51,Normal,Cover,73.38666666666667,79.4
+183,Olympique de Marseille,8592.0,2014/2015,51,Balanced,Normal,50,Mixed,Organised,49,Normal,69,Lots,68,Lots,Organised,48,Medium,48,Press,60,Normal,Cover,75.5875,82.0
+184,Olympique de Marseille,8592.0,2015/2016,51,Balanced,Lots,41,Mixed,Organised,49,Normal,69,Lots,31,Little,Organised,48,Medium,48,Press,60,Normal,Cover,75.95,82.28571428571429
+185,AS Saint-Étienne,9853.0,2011/2012,49,Balanced,Little,52,Mixed,Organised,48,Normal,52,Normal,52,Normal,Organised,35,Medium,44,Press,50,Normal,Cover,72.6,79.0
+186,AS Saint-Étienne,9853.0,2014/2015,58,Balanced,Normal,52,Mixed,Organised,48,Normal,52,Normal,52,Normal,Organised,35,Medium,44,Press,50,Normal,Cover,74.62352941176471,83.0
+187,AS Saint-Étienne,9853.0,2015/2016,58,Balanced,Normal,52,Mixed,Organised,48,Normal,64,Normal,52,Normal,Organised,48,Medium,51,Press,49,Normal,Cover,74.8735632183908,83.0
+188,RC Lens,8588.0,2014/2015,64,Balanced,Normal,49,Mixed,Organised,49,Normal,53,Normal,34,Normal,Organised,46,Medium,44,Press,49,Normal,Cover,67.15,68.9
+189,Montpellier Hérault SC,10249.0,2014/2015,52,Balanced,Normal,47,Mixed,Organised,48,Normal,49,Normal,52,Normal,Organised,53,Medium,56,Press,48,Normal,Cover,71.64615384615385,72.84615384615384
+190,Montpellier Hérault SC,10249.0,2015/2016,54,Balanced,Normal,65,Mixed,Organised,48,Normal,49,Normal,45,Normal,Organised,53,Medium,56,Press,48,Normal,Cover,72.67272727272727,71.81818181818181
+191,Évian Thonon Gaillard FC,4087.0,2014/2015,61,Balanced,Normal,44,Mixed,Organised,52,Normal,61,Normal,48,Normal,Organised,47,Medium,56,Press,50,Normal,Cover,68.91919191919192,67.8
+192,Stade de Reims,9837.0,2014/2015,48,Balanced,Normal,48,Mixed,Organised,48,Normal,52,Normal,50,Normal,Organised,33,Deep,44,Press,50,Normal,Cover,71.24031007751938,73.92307692307692
+193,Stade de Reims,9837.0,2015/2016,48,Balanced,Normal,49,Mixed,Organised,48,Normal,52,Normal,58,Normal,Organised,33,Deep,44,Press,50,Normal,Cover,71.17777777777778,70.66666666666667
+194,SC Bastia,7794.0,2014/2015,67,Fast,Normal,43,Mixed,Organised,56,Normal,51,Normal,49,Normal,Organised,39,Medium,47,Press,48,Normal,Cover,70.03875968992249,71.23076923076923
+195,SC Bastia,7794.0,2015/2016,61,Balanced,Normal,52,Mixed,Organised,56,Normal,51,Normal,49,Normal,Organised,44,Medium,55,Press,48,Normal,Cover,70.08571428571429,69.42857142857143
+196,ES Troyes AC,10242.0,2015/2016,49,Balanced,Normal,51,Mixed,Organised,52,Normal,49,Normal,46,Normal,Organised,43,Medium,42,Press,52,Normal,Cover,67.15,66.0
+197,En Avant de Guingamp,9747.0,2014/2015,63,Balanced,Normal,48,Mixed,Organised,53,Normal,49,Normal,48,Normal,Organised,43,Medium,47,Press,49,Normal,Cover,70.9125,72.25
+198,En Avant de Guingamp,9747.0,2015/2016,63,Balanced,Normal,58,Mixed,Organised,42,Normal,56,Normal,36,Normal,Organised,49,Medium,47,Press,49,Normal,Cover,71.71538461538462,76.0
+199,FC Metz,8550.0,2014/2015,55,Balanced,Normal,49,Mixed,Organised,49,Normal,54,Normal,53,Normal,Organised,46,Medium,54,Press,50,Normal,Cover,68.7,67.71428571428571
+200,Angers SCO,8121.0,2015/2016,48,Balanced,Normal,50,Mixed,Organised,40,Normal,52,Normal,48,Normal,Organised,44,Medium,44,Press,51,Normal,Cover,69.93076923076923,69.6923076923077
+201,GFC Ajaccio,6391.0,2015/2016,48,Balanced,Normal,52,Mixed,Organised,55,Normal,53,Normal,55,Normal,Organised,42,Medium,46,Press,53,Normal,Cover,68.01428571428572,69.35714285714286
+202,FC Bayern Munich,9823.0,2008/2009,65,Balanced,Little,40,Mixed,Free Form,65,Normal,70,Lots,70,Lots,Free Form,70,High,40,Press,65,Normal,Cover,82.9375,78.5
+203,FC Bayern Munich,9823.0,2009/2010,65,Balanced,Little,40,Mixed,Free Form,65,Normal,70,Lots,70,Lots,Free Form,70,High,40,Press,65,Normal,Cover,80.26,78.5
+204,FC Bayern Munich,9823.0,2010/2011,42,Balanced,Little,40,Mixed,Organised,34,Normal,30,Little,72,Lots,Free Form,39,Medium,52,Press,65,Normal,Cover,80.9,76.71428571428571
+205,FC Bayern Munich,9823.0,2011/2012,47,Balanced,Little,40,Mixed,Organised,34,Normal,31,Little,55,Normal,Organised,49,Medium,35,Press,50,Normal,Cover,82.37,87.0
+206,FC Bayern Munich,9823.0,2014/2015,37,Balanced,Normal,22,Short,Free Form,21,Safe,38,Normal,40,Normal,Free Form,61,Medium,59,Press,40,Normal,Cover,83.09166666666667,89.16666666666667
+207,FC Bayern Munich,9823.0,2015/2016,45,Balanced,Little,28,Short,Free Form,37,Normal,31,Little,22,Little,Free Form,72,High,53,Press,59,Normal,Cover,82.67647058823529,90.0
+208,Hamburger SV,9790.0,2008/2009,70,Fast,Little,60,Mixed,Organised,70,Risky,60,Normal,70,Lots,Organised,70,High,45,Press,60,Normal,Cover,76.525,82.0
+209,Hamburger SV,9790.0,2009/2010,70,Fast,Little,60,Mixed,Organised,70,Risky,60,Normal,70,Lots,Organised,70,High,45,Press,60,Normal,Cover,77.875,79.0
+210,Hamburger SV,9790.0,2010/2011,52,Balanced,Little,29,Short,Organised,61,Normal,58,Normal,54,Normal,Organised,60,Medium,55,Press,52,Normal,Cover,76.4,80.0
+211,Hamburger SV,9790.0,2011/2012,46,Balanced,Little,40,Mixed,Organised,60,Normal,55,Normal,39,Normal,Organised,55,Medium,47,Press,48,Normal,Cover,74.82,78.0
+212,Hamburger SV,9790.0,2014/2015,45,Balanced,Normal,58,Mixed,Organised,60,Normal,73,Lots,62,Normal,Organised,45,Medium,32,Contain,63,Normal,Cover,74.26923076923077,76.92307692307692
+213,Hamburger SV,9790.0,2015/2016,42,Balanced,Normal,52,Mixed,Organised,62,Normal,58,Normal,47,Normal,Organised,44,Medium,41,Press,49,Normal,Cover,74.375,79.0
+214,Bayer 04 Leverkusen,8178.0,2008/2009,70,Fast,Little,30,Short,Organised,70,Risky,70,Lots,70,Lots,Organised,70,High,60,Press,70,Wide,Cover,78.075,85.0
+215,Bayer 04 Leverkusen,8178.0,2009/2010,70,Fast,Little,30,Short,Organised,70,Risky,70,Lots,70,Lots,Organised,70,High,60,Press,70,Wide,Cover,77.44,84.0
+216,Bayer 04 Leverkusen,8178.0,2010/2011,67,Fast,Little,38,Mixed,Organised,51,Normal,47,Normal,55,Normal,Organised,57,Medium,39,Press,51,Normal,Cover,78.1,81.57142857142857
+217,Bayer 04 Leverkusen,8178.0,2011/2012,58,Balanced,Little,55,Mixed,Organised,52,Normal,55,Normal,56,Normal,Organised,50,Medium,42,Press,47,Normal,Cover,77.28333333333333,78.0
+218,Bayer 04 Leverkusen,8178.0,2014/2015,69,Fast,Little,55,Mixed,Organised,52,Normal,55,Normal,39,Normal,Organised,50,Medium,46,Press,54,Normal,Cover,76.71666666666667,82.0
+219,Bayer 04 Leverkusen,8178.0,2015/2016,73,Fast,Little,55,Mixed,Organised,77,Risky,54,Normal,61,Normal,Organised,61,Medium,72,Double,50,Normal,Cover,77.89166666666667,83.0
+220,Borussia Dortmund,9789.0,2008/2009,70,Fast,Little,45,Mixed,Organised,70,Risky,34,Normal,66,Normal,Free Form,54,Medium,70,Double,53,Normal,Offside Trap,75.9,79.0
+221,Borussia Dortmund,9789.0,2009/2010,70,Fast,Little,45,Mixed,Organised,70,Risky,34,Normal,66,Normal,Free Form,54,Medium,70,Double,53,Normal,Offside Trap,76.46666666666667,77.66666666666667
+222,Borussia Dortmund,9789.0,2010/2011,73,Fast,Little,43,Mixed,Organised,60,Normal,53,Normal,64,Normal,Organised,59,Medium,67,Double,46,Normal,Cover,77.775,81.0
+223,Borussia Dortmund,9789.0,2011/2012,71,Fast,Little,45,Mixed,Organised,67,Risky,44,Normal,70,Lots,Free Form,58,Medium,69,Double,46,Normal,Cover,79.42,80.6
+224,Borussia Dortmund,9789.0,2014/2015,76,Fast,Little,61,Mixed,Organised,53,Normal,44,Normal,73,Lots,Free Form,60,Medium,68,Double,43,Normal,Cover,80.4076923076923,80.46153846153847
+225,Borussia Dortmund,9789.0,2015/2016,71,Fast,Normal,40,Mixed,Organised,70,Risky,44,Normal,49,Normal,Free Form,65,Medium,71,Double,40,Normal,Cover,81.08461538461539,80.0
+226,FC Schalke 04,10189.0,2008/2009,65,Balanced,Little,55,Mixed,Organised,55,Normal,70,Lots,70,Lots,Organised,70,High,45,Press,70,Wide,Cover,78.8,77.75
+227,FC Schalke 04,10189.0,2009/2010,65,Balanced,Little,55,Mixed,Organised,55,Normal,70,Lots,70,Lots,Organised,70,High,45,Press,70,Wide,Cover,75.65,84.0
+228,FC Schalke 04,10189.0,2010/2011,63,Balanced,Little,57,Mixed,Organised,55,Normal,70,Lots,62,Normal,Organised,37,Medium,67,Double,38,Normal,Cover,76.05714285714286,86.0
+229,FC Schalke 04,10189.0,2011/2012,50,Balanced,Little,36,Mixed,Organised,59,Normal,52,Normal,56,Normal,Organised,43,Medium,44,Press,53,Normal,Cover,77.7,72.5
+230,FC Schalke 04,10189.0,2014/2015,39,Balanced,Normal,45,Mixed,Organised,42,Normal,56,Normal,41,Normal,Organised,51,Medium,51,Press,40,Normal,Cover,76.18181818181819,71.36363636363636
+231,FC Schalke 04,10189.0,2015/2016,58,Balanced,Normal,42,Mixed,Organised,64,Normal,61,Normal,37,Normal,Organised,55,Medium,59,Press,56,Normal,Cover,77.26666666666667,82.0
+232,Hannover 96,9904.0,2008/2009,55,Balanced,Little,70,Long,Organised,65,Normal,45,Normal,65,Normal,Organised,70,High,70,Double,70,Wide,Cover,72.5,84.0
+233,Hannover 96,9904.0,2009/2010,55,Balanced,Little,70,Long,Organised,65,Normal,45,Normal,65,Normal,Organised,70,High,70,Double,70,Wide,Cover,71.16666666666667,74.0
+234,Hannover 96,9904.0,2010/2011,55,Balanced,Little,56,Mixed,Organised,55,Normal,43,Normal,53,Normal,Organised,39,Medium,37,Press,53,Normal,Cover,73.18,72.4
+235,Hannover 96,9904.0,2011/2012,65,Balanced,Little,58,Mixed,Organised,63,Normal,44,Normal,64,Normal,Organised,39,Medium,45,Press,47,Normal,Cover,75.3,78.0
+236,Hannover 96,9904.0,2014/2015,48,Balanced,Normal,38,Mixed,Organised,38,Normal,51,Normal,40,Normal,Organised,37,Medium,48,Press,56,Normal,Cover,73.3375,79.0
+237,Hannover 96,9904.0,2015/2016,48,Balanced,Normal,41,Mixed,Organised,38,Normal,51,Normal,40,Normal,Organised,35,Medium,50,Press,61,Normal,Cover,72.9,80.0
+238,VfL Wolfsburg,8721.0,2008/2009,65,Balanced,Little,45,Mixed,Organised,65,Normal,60,Normal,70,Lots,Organised,45,Medium,60,Press,50,Normal,Cover,76.33333333333333,80.0
+239,VfL Wolfsburg,8721.0,2009/2010,65,Balanced,Little,45,Mixed,Organised,65,Normal,60,Normal,70,Lots,Organised,45,Medium,60,Press,50,Normal,Cover,78.15,75.5
+240,VfL Wolfsburg,8721.0,2010/2011,65,Balanced,Little,45,Mixed,Organised,65,Normal,36,Normal,51,Normal,Organised,58,Medium,47,Press,66,Normal,Cover,77.14285714285714,78.42857142857143
+241,VfL Wolfsburg,8721.0,2011/2012,54,Balanced,Little,59,Mixed,Organised,67,Risky,56,Normal,48,Normal,Organised,38,Medium,40,Press,45,Normal,Cover,74.78,76.2
+242,VfL Wolfsburg,8721.0,2014/2015,58,Balanced,Lots,45,Mixed,Organised,68,Risky,60,Normal,54,Normal,Organised,59,Medium,48,Press,47,Normal,Cover,78.19333333333333,78.0
+243,VfL Wolfsburg,8721.0,2015/2016,68,Fast,Normal,57,Mixed,Organised,69,Risky,66,Normal,50,Normal,Organised,66,Medium,46,Press,55,Normal,Cover,79.65,77.5
+244,1. FC Köln,8722.0,2008/2009,55,Balanced,Little,65,Mixed,Organised,65,Normal,40,Normal,60,Normal,Organised,45,Medium,55,Press,70,Wide,Cover,70.52,75.0
+245,1. FC Köln,8722.0,2009/2010,55,Balanced,Little,65,Mixed,Organised,65,Normal,40,Normal,60,Normal,Organised,45,Medium,55,Press,70,Wide,Cover,73.93333333333334,74.0
+246,1. FC Köln,8722.0,2010/2011,58,Balanced,Little,71,Long,Organised,42,Normal,39,Normal,50,Normal,Organised,40,Medium,40,Press,56,Normal,Cover,73.3,73.6
+247,1. FC Köln,8722.0,2011/2012,53,Balanced,Little,53,Mixed,Organised,57,Normal,44,Normal,57,Normal,Organised,43,Medium,55,Press,67,Wide,Cover,73.68571428571428,78.0
+248,1. FC Köln,8722.0,2014/2015,59,Balanced,Normal,57,Mixed,Organised,53,Normal,47,Normal,59,Normal,Organised,57,Medium,46,Press,54,Normal,Cover,71.775,74.0
+249,1. FC Köln,8722.0,2015/2016,59,Balanced,Normal,65,Mixed,Organised,57,Normal,36,Normal,71,Lots,Organised,42,Medium,56,Press,51,Normal,Cover,74.67058823529412,79.3529411764706
+250,Eintracht Frankfurt,9810.0,2009/2010,60,Balanced,Little,35,Mixed,Organised,35,Normal,70,Lots,60,Normal,Organised,65,Medium,30,Contain,45,Normal,Cover,72.45,74.0
+251,Eintracht Frankfurt,9810.0,2010/2011,52,Balanced,Little,43,Mixed,Organised,62,Normal,62,Normal,41,Normal,Organised,48,Medium,50,Press,53,Normal,Cover,73.08,73.0
+252,Eintracht Frankfurt,9810.0,2014/2015,63,Balanced,Normal,42,Mixed,Organised,57,Normal,50,Normal,52,Normal,Organised,43,Medium,46,Press,55,Normal,Cover,73.875,77.66666666666667
+253,Eintracht Frankfurt,9810.0,2015/2016,51,Balanced,Normal,38,Mixed,Organised,47,Normal,58,Normal,40,Normal,Organised,48,Medium,42,Press,55,Normal,Cover,74.58333333333333,75.0
+254,Hertha BSC Berlin,8177.0,2008/2009,60,Balanced,Little,50,Mixed,Organised,45,Normal,55,Normal,55,Normal,Organised,55,Medium,30,Contain,55,Normal,Cover,75.25,79.0
+255,Hertha BSC Berlin,8177.0,2009/2010,60,Balanced,Little,50,Mixed,Organised,45,Normal,55,Normal,55,Normal,Organised,55,Medium,30,Contain,55,Normal,Cover,73.36666666666666,81.0
+256,Hertha BSC Berlin,8177.0,2011/2012,48,Balanced,Little,45,Mixed,Organised,45,Normal,51,Normal,46,Normal,Organised,50,Medium,50,Press,55,Normal,Cover,73.2,76.0
+257,Hertha BSC Berlin,8177.0,2014/2015,68,Fast,Normal,55,Mixed,Organised,51,Normal,59,Normal,59,Normal,Organised,41,Medium,60,Press,51,Normal,Cover,73.52857142857142,74.64285714285714
+258,Hertha BSC Berlin,8177.0,2015/2016,47,Balanced,Normal,55,Mixed,Organised,59,Normal,68,Lots,45,Normal,Organised,50,Medium,45,Press,57,Normal,Cover,75.15625,74.125
+259,DSC Arminia Bielefeld,9912.0,2008/2009,40,Balanced,Little,65,Mixed,Organised,45,Normal,70,Lots,50,Normal,Organised,45,Medium,40,Press,50,Normal,Cover,70.45,79.0
+260,SV Werder Bremen,8697.0,2008/2009,70,Fast,Little,40,Mixed,Organised,70,Risky,40,Normal,70,Lots,Organised,70,High,65,Press,70,Wide,Cover,78.3625,81.0
+261,SV Werder Bremen,8697.0,2009/2010,70,Fast,Little,40,Mixed,Organised,70,Risky,40,Normal,70,Lots,Organised,70,High,65,Press,70,Wide,Cover,78.225,83.0
+262,SV Werder Bremen,8697.0,2010/2011,64,Balanced,Little,40,Mixed,Organised,65,Normal,48,Normal,64,Normal,Organised,64,Medium,48,Press,68,Wide,Cover,75.78333333333333,79.66666666666667
+263,SV Werder Bremen,8697.0,2011/2012,54,Balanced,Little,40,Mixed,Organised,68,Risky,58,Normal,48,Normal,Organised,49,Medium,50,Press,65,Normal,Cover,74.12,83.0
+264,SV Werder Bremen,8697.0,2014/2015,40,Balanced,Normal,47,Mixed,Organised,37,Normal,40,Normal,51,Normal,Organised,40,Medium,50,Press,45,Normal,Cover,72.34615384615384,70.84615384615384
+265,SV Werder Bremen,8697.0,2015/2016,56,Balanced,Normal,63,Mixed,Organised,68,Risky,66,Normal,58,Normal,Organised,63,Medium,47,Press,73,Wide,Cover,,75.0
+266,TSG 1899 Hoffenheim,8226.0,2008/2009,70,Fast,Little,30,Short,Organised,70,Risky,55,Normal,55,Normal,Organised,65,Medium,70,Double,65,Normal,Offside Trap,74.85,76.5
+267,TSG 1899 Hoffenheim,8226.0,2009/2010,70,Fast,Little,30,Short,Organised,70,Risky,55,Normal,55,Normal,Organised,65,Medium,70,Double,65,Normal,Offside Trap,75.8,74.0
+268,TSG 1899 Hoffenheim,8226.0,2010/2011,75,Fast,Little,35,Mixed,Organised,72,Risky,51,Normal,68,Lots,Free Form,68,High,50,Press,52,Normal,Cover,75.35,73.0
+269,TSG 1899 Hoffenheim,8226.0,2011/2012,61,Balanced,Little,53,Mixed,Organised,42,Normal,62,Normal,54,Normal,Organised,47,Medium,59,Press,40,Normal,Cover,74.025,77.0
+270,TSG 1899 Hoffenheim,8226.0,2014/2015,68,Fast,Normal,63,Mixed,Organised,68,Risky,38,Normal,55,Normal,Free Form,56,Medium,57,Press,54,Normal,Cover,74.48333333333333,78.0
+271,TSG 1899 Hoffenheim,8226.0,2015/2016,69,Fast,Normal,53,Mixed,Organised,66,Normal,62,Normal,59,Normal,Organised,63,Medium,61,Press,38,Normal,Cover,75.01875,78.0
+272,Borussia Mönchengladbach,9788.0,2008/2009,65,Balanced,Little,45,Mixed,Organised,50,Normal,70,Lots,65,Normal,Organised,55,Medium,40,Press,65,Normal,Cover,71.9,72.0
+273,Borussia Mönchengladbach,9788.0,2009/2010,65,Balanced,Little,45,Mixed,Organised,50,Normal,70,Lots,65,Normal,Organised,55,Medium,40,Press,65,Normal,Cover,73.1,70.0
+274,Borussia Mönchengladbach,9788.0,2010/2011,63,Balanced,Little,46,Mixed,Organised,60,Normal,51,Normal,61,Normal,Organised,49,Medium,58,Press,49,Normal,Cover,73.2,71.0
+275,Borussia Mönchengladbach,9788.0,2011/2012,57,Balanced,Little,64,Mixed,Organised,54,Normal,48,Normal,55,Normal,Organised,33,Deep,43,Press,38,Normal,Cover,74.53333333333333,79.0
+276,Borussia Mönchengladbach,9788.0,2014/2015,31,Slow,Normal,32,Short,Organised,38,Normal,26,Little,49,Normal,Free Form,43,Medium,50,Press,41,Normal,Cover,76.23333333333333,80.0
+277,Borussia Mönchengladbach,9788.0,2015/2016,31,Slow,Normal,32,Short,Organised,38,Normal,26,Little,49,Normal,Free Form,41,Medium,48,Press,39,Normal,Cover,76.03571428571429,81.35714285714286
+278,VfB Stuttgart,10269.0,2008/2009,70,Fast,Little,30,Short,Organised,60,Normal,70,Lots,70,Lots,Organised,65,Medium,50,Press,60,Normal,Cover,75.1,80.0
+279,VfB Stuttgart,10269.0,2009/2010,70,Fast,Little,30,Short,Organised,60,Normal,70,Lots,70,Lots,Organised,65,Medium,50,Press,60,Normal,Cover,76.2,79.0
+280,VfB Stuttgart,10269.0,2010/2011,64,Balanced,Little,48,Mixed,Organised,60,Normal,62,Normal,56,Normal,Organised,45,Medium,56,Press,39,Normal,Cover,74.56666666666666,73.0
+281,VfB Stuttgart,10269.0,2011/2012,50,Balanced,Little,42,Mixed,Organised,56,Normal,66,Normal,48,Normal,Organised,47,Medium,44,Press,43,Normal,Cover,75.95,77.0
+282,VfB Stuttgart,10269.0,2014/2015,54,Balanced,Normal,53,Mixed,Organised,60,Normal,56,Normal,48,Normal,Organised,46,Medium,54,Press,40,Normal,Cover,73.10833333333333,75.5
+283,VfB Stuttgart,10269.0,2015/2016,59,Balanced,Normal,41,Mixed,Organised,58,Normal,66,Normal,48,Normal,Organised,41,Medium,44,Press,32,Narrow,Cover,74.99230769230769,74.92307692307692
+284,VfL Bochum,9911.0,2008/2009,50,Balanced,Little,65,Mixed,Organised,55,Normal,45,Normal,50,Normal,Organised,40,Medium,60,Press,40,Normal,Cover,70.75862068965517,76.0
+285,VfL Bochum,9911.0,2009/2010,50,Balanced,Little,65,Mixed,Organised,55,Normal,45,Normal,50,Normal,Organised,40,Medium,60,Press,40,Normal,Cover,71.58,70.2
+286,SC Freiburg,8358.0,2009/2010,50,Balanced,Little,30,Short,Organised,30,Safe,70,Lots,60,Normal,Organised,55,Medium,50,Press,50,Normal,Cover,69.1,73.0
+287,SC Freiburg,8358.0,2010/2011,50,Balanced,Little,47,Mixed,Organised,47,Normal,41,Normal,34,Normal,Organised,41,Medium,42,Press,50,Normal,Cover,71.7,74.0
+288,SC Freiburg,8358.0,2011/2012,52,Balanced,Little,61,Mixed,Organised,62,Normal,50,Normal,42,Normal,Organised,30,Deep,50,Press,39,Normal,Cover,69.7,71.0
+289,SC Freiburg,8358.0,2014/2015,39,Balanced,Normal,48,Mixed,Organised,55,Normal,33,Little,44,Normal,Free Form,59,Medium,60,Press,39,Normal,Cover,71.57,77.0
+290,1. FC Nürnberg,8165.0,2009/2010,45,Balanced,Little,50,Mixed,Organised,40,Normal,70,Lots,70,Lots,Organised,55,Medium,55,Press,40,Normal,Cover,71.1,74.0
+291,1. FC Nürnberg,8165.0,2010/2011,45,Balanced,Little,50,Mixed,Organised,47,Normal,45,Normal,56,Normal,Organised,55,Medium,61,Press,46,Normal,Cover,70.88,76.0
+292,1. FC Nürnberg,8165.0,2011/2012,44,Balanced,Little,49,Mixed,Organised,51,Normal,49,Normal,48,Normal,Organised,30,Deep,40,Press,43,Normal,Cover,73.03333333333333,76.0
+293,1. FSV Mainz 05,9905.0,2009/2010,45,Balanced,Little,40,Mixed,Organised,45,Normal,70,Lots,70,Lots,Organised,50,Medium,70,Double,50,Normal,Cover,71.06666666666666,74.0
+294,1. FSV Mainz 05,9905.0,2010/2011,65,Balanced,Little,50,Mixed,Organised,59,Normal,62,Normal,53,Normal,Organised,57,Medium,53,Press,43,Normal,Cover,72.62857142857143,73.42857142857143
+295,1. FSV Mainz 05,9905.0,2011/2012,68,Fast,Little,57,Mixed,Organised,55,Normal,39,Normal,60,Normal,Organised,52,Medium,65,Press,53,Normal,Cover,72.23333333333333,74.0
+296,1. FSV Mainz 05,9905.0,2014/2015,67,Fast,Normal,57,Mixed,Organised,55,Normal,38,Normal,44,Normal,Organised,53,Medium,60,Press,52,Normal,Cover,73.28181818181818,74.72727272727273
+297,1. FSV Mainz 05,9905.0,2015/2016,60,Balanced,Normal,53,Mixed,Organised,49,Normal,40,Normal,44,Normal,Organised,55,Medium,62,Press,47,Normal,Cover,74.25714285714285,79.0
+298,1. FC Kaiserslautern,8350.0,2010/2011,48,Balanced,Little,42,Mixed,Organised,49,Normal,68,Lots,53,Normal,Organised,38,Medium,48,Press,53,Normal,Cover,71.14,74.0
+299,1. FC Kaiserslautern,8350.0,2011/2012,38,Balanced,Little,54,Mixed,Organised,43,Normal,49,Normal,64,Normal,Organised,37,Medium,51,Press,53,Normal,Cover,70.85,77.0
+300,FC St. Pauli,8152.0,2010/2011,60,Balanced,Little,42,Mixed,Organised,63,Normal,55,Normal,56,Normal,Organised,49,Medium,60,Press,55,Normal,Cover,69.9,70.6
+301,FC Augsburg,8406.0,2011/2012,55,Balanced,Little,55,Mixed,Organised,49,Normal,57,Normal,55,Normal,Organised,47,Medium,58,Press,56,Normal,Cover,69.12,74.0
+302,FC Augsburg,8406.0,2014/2015,62,Balanced,Normal,69,Long,Organised,41,Normal,63,Normal,56,Normal,Organised,47,Medium,55,Press,52,Normal,Cover,73.24166666666666,73.0
+303,FC Augsburg,8406.0,2015/2016,59,Balanced,Normal,55,Mixed,Organised,49,Normal,62,Normal,55,Normal,Organised,34,Medium,50,Press,59,Normal,Cover,74.23333333333333,75.73333333333333
+304,SC Paderborn 07,8460.0,2014/2015,73,Fast,Normal,55,Mixed,Organised,52,Normal,48,Normal,63,Normal,Organised,33,Deep,55,Press,53,Normal,Cover,68.62857142857143,70.0
+305,FC Ingolstadt 04,8234.0,2015/2016,55,Balanced,Normal,46,Mixed,Organised,47,Normal,53,Normal,51,Normal,Organised,37,Medium,48,Press,49,Normal,Cover,71.325,73.0
+306,SV Darmstadt 98,8262.0,2015/2016,59,Balanced,Normal,77,Long,Organised,52,Normal,77,Lots,45,Normal,Organised,32,Deep,56,Press,41,Normal,Cover,71.67368421052632,70.78947368421052
+307,Atalanta,8524.0,2008/2009,35,Balanced,Little,40,Mixed,Organised,35,Normal,30,Little,55,Normal,Organised,30,Deep,30,Contain,55,Normal,Offside Trap,74.4,73.0
+308,Atalanta,8524.0,2009/2010,35,Balanced,Little,40,Mixed,Organised,35,Normal,30,Little,55,Normal,Organised,30,Deep,30,Contain,55,Normal,Offside Trap,73.53333333333333,72.0
+309,Atalanta,8524.0,2011/2012,40,Balanced,Little,50,Mixed,Organised,53,Normal,47,Normal,50,Normal,Organised,55,Medium,42,Press,50,Normal,Cover,73.22,73.0
+310,Atalanta,8524.0,2014/2015,64,Balanced,Normal,37,Mixed,Organised,38,Normal,49,Normal,51,Normal,Organised,36,Medium,66,Press,49,Normal,Cover,72.81,64.0
+311,Atalanta,8524.0,2015/2016,64,Balanced,Normal,37,Mixed,Organised,38,Normal,49,Normal,51,Normal,Organised,36,Medium,63,Press,49,Normal,Cover,73.65,77.0
+312,Siena,8551.0,2008/2009,35,Balanced,Little,30,Short,Organised,30,Safe,30,Little,55,Normal,Organised,40,Medium,65,Press,55,Normal,Offside Trap,71.96666666666667,74.66666666666667
+313,Siena,8551.0,2009/2010,35,Balanced,Little,30,Short,Organised,30,Safe,30,Little,55,Normal,Organised,40,Medium,65,Press,55,Normal,Offside Trap,69.8,76.0
+314,Siena,8551.0,2011/2012,45,Balanced,Little,50,Mixed,Organised,50,Normal,50,Normal,50,Normal,Organised,45,Medium,45,Press,50,Normal,Cover,70.78,66.0
+315,Cagliari,8529.0,2008/2009,40,Balanced,Little,30,Short,Organised,30,Safe,35,Normal,55,Normal,Organised,40,Medium,55,Press,60,Normal,Cover,73.84,76.0
+316,Cagliari,8529.0,2009/2010,40,Balanced,Little,30,Short,Organised,30,Safe,35,Normal,55,Normal,Organised,40,Medium,55,Press,60,Normal,Cover,74.68,82.0
+317,Cagliari,8529.0,2010/2011,65,Balanced,Little,50,Mixed,Organised,50,Normal,65,Normal,50,Normal,Free Form,45,Medium,45,Press,51,Normal,Cover,73.22,73.0
+318,Cagliari,8529.0,2011/2012,40,Balanced,Little,50,Mixed,Organised,65,Normal,50,Normal,50,Normal,Organised,45,Medium,45,Press,50,Normal,Cover,74.35,74.0
+319,Cagliari,8529.0,2014/2015,63,Balanced,Normal,53,Mixed,Organised,33,Safe,51,Normal,68,Lots,Organised,37,Medium,56,Press,51,Normal,Cover,71.73333333333333,71.83333333333333
+320,Lazio,8543.0,2008/2009,60,Balanced,Little,50,Mixed,Organised,50,Normal,40,Normal,70,Lots,Organised,55,Medium,50,Press,70,Wide,Cover,75.57352941176471,74.85714285714286
+321,Lazio,8543.0,2009/2010,60,Balanced,Little,50,Mixed,Organised,50,Normal,40,Normal,70,Lots,Organised,55,Medium,50,Press,70,Wide,Cover,76.13513513513513,76.0
+322,Lazio,8543.0,2010/2011,60,Balanced,Little,35,Mixed,Free Form,50,Normal,35,Normal,51,Normal,Organised,45,Medium,50,Press,35,Normal,Cover,77.32857142857142,76.0
+323,Lazio,8543.0,2011/2012,45,Balanced,Little,50,Mixed,Organised,65,Normal,50,Normal,50,Normal,Organised,35,Medium,45,Press,50,Normal,Cover,78.36666666666666,82.0
+324,Lazio,8543.0,2014/2015,49,Balanced,Lots,54,Mixed,Organised,68,Risky,63,Normal,69,Lots,Organised,59,Medium,53,Press,54,Normal,Cover,76.73846153846154,77.61538461538461
+325,Lazio,8543.0,2015/2016,68,Fast,Normal,55,Mixed,Organised,68,Risky,80,Lots,72,Lots,Free Form,59,Medium,66,Press,65,Normal,Cover,78.06875,78.5
+326,Catania,8530.0,2008/2009,35,Balanced,Little,30,Short,Organised,30,Safe,30,Little,60,Normal,Organised,35,Medium,55,Press,50,Normal,Cover,72.94,73.8
+327,Catania,8530.0,2009/2010,35,Balanced,Little,30,Short,Organised,30,Safe,30,Little,60,Normal,Organised,35,Medium,55,Press,50,Normal,Cover,73.65,73.5
+328,Catania,8530.0,2010/2011,65,Balanced,Little,35,Mixed,Free Form,50,Normal,65,Normal,63,Normal,Organised,35,Medium,55,Press,50,Normal,Offside Trap,72.55,75.0
+329,Catania,8530.0,2011/2012,40,Balanced,Little,50,Mixed,Organised,50,Normal,50,Normal,50,Normal,Organised,25,Deep,50,Press,35,Normal,Cover,73.55,74.33333333333333
+330,Genoa,10233.0,2008/2009,70,Fast,Little,50,Mixed,Organised,70,Risky,40,Normal,65,Normal,Organised,40,Medium,65,Press,30,Narrow,Cover,75.73333333333333,77.0
+331,Genoa,10233.0,2009/2010,70,Fast,Little,50,Mixed,Organised,70,Risky,40,Normal,65,Normal,Organised,40,Medium,65,Press,30,Narrow,Cover,76.1,70.0
+332,Genoa,10233.0,2010/2011,65,Balanced,Little,35,Mixed,Organised,50,Normal,50,Normal,50,Normal,Free Form,54,Medium,65,Press,35,Normal,Cover,75.14,77.0
+333,Genoa,10233.0,2014/2015,64,Balanced,Normal,68,Long,Organised,66,Normal,53,Normal,49,Normal,Organised,23,Deep,47,Press,53,Normal,Cover,73.08181818181818,74.0
+334,Genoa,10233.0,2015/2016,64,Balanced,Normal,68,Long,Organised,66,Normal,45,Normal,23,Little,Organised,27,Deep,47,Press,53,Normal,Cover,73.62857142857143,79.57142857142857
+335,Chievo Verona,8533.0,2008/2009,45,Balanced,Little,30,Short,Organised,35,Normal,45,Normal,65,Normal,Organised,30,Deep,70,Double,65,Normal,Offside Trap,72.4,75.0
+336,Chievo Verona,8533.0,2009/2010,45,Balanced,Little,30,Short,Organised,35,Normal,45,Normal,65,Normal,Organised,30,Deep,70,Double,65,Normal,Offside Trap,71.76666666666667,75.0
+337,Chievo Verona,8533.0,2010/2011,45,Balanced,Little,50,Mixed,Organised,49,Normal,45,Normal,35,Normal,Organised,36,Medium,70,Double,51,Normal,Cover,73.0375,77.0
+338,Chievo Verona,8533.0,2011/2012,60,Balanced,Little,65,Mixed,Organised,50,Normal,50,Normal,65,Normal,Organised,25,Deep,45,Press,50,Normal,Cover,73.24,78.0
+339,Chievo Verona,8533.0,2014/2015,66,Balanced,Normal,67,Long,Organised,52,Normal,66,Normal,52,Normal,Organised,46,Medium,59,Press,51,Normal,Cover,72.10625,72.375
+340,Chievo Verona,8533.0,2015/2016,66,Balanced,Normal,67,Long,Organised,52,Normal,66,Normal,52,Normal,Organised,46,Medium,59,Press,51,Normal,Cover,74.21818181818182,73.9090909090909
+341,Reggio Calabria,8690.0,2008/2009,55,Balanced,Little,30,Short,Organised,30,Safe,30,Little,70,Lots,Organised,40,Medium,50,Press,50,Normal,Cover,68.10526315789474,64.5
+342,Fiorentina,8535.0,2008/2009,67,Fast,Little,30,Short,Free Form,50,Normal,60,Normal,60,Normal,Free Form,45,Medium,30,Contain,60,Normal,Offside Trap,78.98,87.0
+343,Fiorentina,8535.0,2009/2010,67,Fast,Little,30,Short,Free Form,50,Normal,60,Normal,60,Normal,Free Form,45,Medium,30,Contain,60,Normal,Offside Trap,78.4,86.0
+344,Fiorentina,8535.0,2010/2011,49,Balanced,Little,50,Mixed,Organised,50,Normal,60,Normal,60,Normal,Organised,45,Medium,45,Press,50,Normal,Offside Trap,75.56,77.0
+345,Fiorentina,8535.0,2011/2012,45,Balanced,Little,50,Mixed,Organised,65,Normal,50,Normal,50,Normal,Organised,45,Medium,45,Press,50,Normal,Cover,76.14285714285714,74.0
+346,Fiorentina,8535.0,2014/2015,34,Balanced,Normal,33,Short,Organised,68,Risky,51,Normal,53,Normal,Organised,58,Medium,59,Press,67,Wide,Cover,75.93529411764706,75.52941176470588
+347,Fiorentina,8535.0,2015/2016,34,Balanced,Normal,33,Short,Organised,68,Risky,51,Normal,53,Normal,Organised,58,Medium,59,Press,61,Normal,Cover,77.01538461538462,75.0
+348,Juventus,9885.0,2008/2009,45,Balanced,Little,35,Mixed,Free Form,45,Normal,55,Normal,70,Lots,Free Form,50,Medium,35,Press,70,Wide,Offside Trap,81.05,81.875
+349,Juventus,9885.0,2009/2010,45,Balanced,Little,35,Mixed,Free Form,45,Normal,55,Normal,70,Lots,Free Form,50,Medium,35,Press,70,Wide,Offside Trap,80.03333333333333,86.16666666666667
+350,Juventus,9885.0,2010/2011,65,Balanced,Little,50,Mixed,Organised,50,Normal,77,Lots,50,Normal,Organised,55,Medium,55,Press,35,Normal,Cover,78.8,81.72727272727273
+351,Juventus,9885.0,2011/2012,50,Balanced,Little,35,Mixed,Organised,65,Normal,65,Normal,50,Normal,Organised,35,Medium,55,Press,35,Normal,Cover,81.16153846153846,86.0
+352,Juventus,9885.0,2014/2015,26,Slow,Normal,24,Short,Organised,64,Normal,53,Normal,72,Lots,Organised,23,Deep,67,Double,36,Normal,Cover,80.10833333333333,80.0
+353,Juventus,9885.0,2015/2016,50,Balanced,Normal,20,Short,Organised,65,Normal,50,Normal,80,Lots,Organised,35,Medium,65,Press,35,Normal,Cover,81.99090909090908,83.54545454545455
+354,Milan,8564.0,2008/2009,45,Balanced,Little,30,Short,Free Form,55,Normal,45,Normal,70,Lots,Free Form,30,Deep,35,Press,60,Normal,Offside Trap,81.5179856115108,78.85714285714286
+355,Milan,8564.0,2009/2010,45,Balanced,Little,30,Short,Free Form,55,Normal,45,Normal,70,Lots,Free Form,30,Deep,35,Press,60,Normal,Offside Trap,80.87142857142857,77.0
+356,Milan,8564.0,2010/2011,65,Balanced,Little,50,Mixed,Organised,50,Normal,60,Normal,50,Normal,Free Form,50,Medium,50,Press,50,Normal,Offside Trap,80.0,80.5
+357,Milan,8564.0,2011/2012,45,Balanced,Little,50,Mixed,Organised,65,Normal,20,Little,50,Normal,Free Form,45,Medium,45,Press,50,Normal,Cover,80.64545454545454,80.63636363636364
+358,Milan,8564.0,2014/2015,48,Balanced,Lots,52,Mixed,Organised,66,Normal,36,Normal,75,Lots,Organised,58,Medium,57,Press,49,Normal,Cover,77.6,80.5
+359,Milan,8564.0,2015/2016,48,Balanced,Lots,52,Mixed,Organised,66,Normal,36,Normal,69,Lots,Organised,58,Medium,57,Press,49,Normal,Cover,77.56,71.1
+360,Bologna,9857.0,2008/2009,65,Balanced,Little,55,Mixed,Organised,30,Safe,70,Lots,65,Normal,Organised,55,Medium,30,Contain,50,Normal,Offside Trap,69.6938775510204,65.4
+361,Bologna,9857.0,2009/2010,65,Balanced,Little,55,Mixed,Organised,30,Safe,70,Lots,65,Normal,Organised,55,Medium,30,Contain,50,Normal,Offside Trap,69.25,70.75
+362,Bologna,9857.0,2010/2011,65,Balanced,Little,35,Mixed,Organised,35,Normal,35,Normal,50,Normal,Organised,30,Deep,50,Press,50,Normal,Cover,71.46,78.0
+363,Bologna,9857.0,2015/2016,63,Balanced,Normal,48,Mixed,Organised,32,Safe,48,Normal,52,Normal,Organised,30,Deep,54,Press,48,Normal,Cover,71.94166666666666,78.0
+364,Roma,8686.0,2008/2009,70,Fast,Little,30,Short,Free Form,60,Normal,60,Normal,70,Lots,Free Form,55,Medium,30,Contain,70,Wide,Offside Trap,80.775,77.5
+365,Roma,8686.0,2009/2010,70,Fast,Little,30,Short,Free Form,60,Normal,60,Normal,70,Lots,Free Form,55,Medium,30,Contain,70,Wide,Offside Trap,80.1625,73.625
+366,Roma,8686.0,2010/2011,64,Balanced,Little,30,Short,Organised,67,Risky,50,Normal,65,Normal,Free Form,46,Medium,47,Press,50,Normal,Offside Trap,79.61428571428571,76.14285714285714
+367,Roma,8686.0,2011/2012,60,Balanced,Little,40,Mixed,Free Form,65,Normal,35,Normal,50,Normal,Free Form,35,Medium,45,Press,50,Normal,Offside Trap,76.83636363636364,82.0
+368,Roma,8686.0,2014/2015,67,Fast,Normal,38,Mixed,Organised,73,Risky,64,Normal,56,Normal,Free Form,36,Medium,57,Press,34,Normal,Cover,78.4,77.58823529411765
+369,Roma,8686.0,2015/2016,68,Fast,Little,47,Mixed,Organised,71,Risky,54,Normal,66,Normal,Free Form,36,Medium,57,Press,48,Normal,Cover,79.56428571428572,78.0
+370,Napoli,9875.0,2008/2009,70,Fast,Little,30,Short,Free Form,30,Safe,35,Normal,70,Lots,Free Form,50,Medium,70,Double,45,Normal,Cover,75.78,75.0
+371,Napoli,9875.0,2009/2010,70,Fast,Little,30,Short,Free Form,30,Safe,35,Normal,70,Lots,Free Form,50,Medium,70,Double,45,Normal,Cover,76.5,77.0
+372,Napoli,9875.0,2010/2011,50,Balanced,Little,35,Mixed,Free Form,65,Normal,65,Normal,50,Normal,Organised,50,Medium,70,Double,45,Normal,Cover,77.71428571428571,80.0
+373,Napoli,9875.0,2011/2012,60,Balanced,Little,50,Mixed,Organised,65,Normal,65,Normal,50,Normal,Organised,45,Medium,55,Press,50,Normal,Cover,79.96666666666667,82.0
+374,Napoli,9875.0,2014/2015,72,Fast,Lots,34,Mixed,Organised,76,Risky,66,Normal,73,Lots,Organised,61,Medium,59,Press,39,Normal,Cover,77.46428571428571,74.28571428571429
+375,Napoli,9875.0,2015/2016,53,Balanced,Lots,37,Mixed,Organised,68,Risky,54,Normal,67,Lots,Organised,47,Medium,57,Press,53,Normal,Offside Trap,79.90625,80.0
+376,Sampdoria,9882.0,2008/2009,60,Balanced,Little,30,Short,Organised,30,Safe,30,Little,65,Normal,Free Form,50,Medium,30,Contain,55,Normal,Offside Trap,76.9,75.0
+377,Sampdoria,9882.0,2009/2010,60,Balanced,Little,30,Short,Organised,30,Safe,30,Little,65,Normal,Free Form,50,Medium,30,Contain,55,Normal,Offside Trap,76.6,77.0
+378,Sampdoria,9882.0,2010/2011,50,Balanced,Little,65,Mixed,Organised,65,Normal,65,Normal,50,Normal,Organised,35,Medium,45,Press,55,Normal,Cover,75.86,76.3
+379,Sampdoria,9882.0,2014/2015,36,Balanced,Normal,38,Mixed,Organised,49,Normal,52,Normal,62,Normal,Organised,54,Medium,57,Press,64,Normal,Offside Trap,72.02912621359224,76.63636363636364
+380,Sampdoria,9882.0,2015/2016,36,Balanced,Normal,38,Mixed,Organised,49,Normal,52,Normal,29,Little,Organised,50,Medium,51,Press,53,Normal,Cover,74.26923076923077,79.0
+381,Inter,8636.0,2008/2009,55,Balanced,Little,55,Mixed,Free Form,50,Normal,55,Normal,70,Lots,Organised,50,Medium,60,Press,55,Normal,Cover,82.03370786516854,85.77777777777777
+382,Inter,8636.0,2009/2010,55,Balanced,Little,55,Mixed,Free Form,50,Normal,55,Normal,70,Lots,Organised,50,Medium,60,Press,55,Normal,Cover,83.1125,89.0
+383,Inter,8636.0,2010/2011,55,Balanced,Little,50,Mixed,Free Form,50,Normal,55,Normal,65,Normal,Organised,50,Medium,60,Press,55,Normal,Cover,81.43333333333334,84.5
+384,Inter,8636.0,2011/2012,45,Balanced,Little,50,Mixed,Organised,65,Normal,50,Normal,65,Normal,Organised,35,Medium,55,Press,35,Normal,Cover,81.48,84.0
+385,Inter,8636.0,2014/2015,67,Fast,Normal,67,Long,Organised,68,Risky,69,Lots,66,Normal,Organised,23,Deep,57,Press,34,Normal,Cover,76.49375,83.375
+386,Inter,8636.0,2015/2016,58,Balanced,Lots,54,Mixed,Organised,56,Normal,60,Normal,53,Normal,Organised,47,Medium,49,Press,63,Normal,Cover,78.73076923076923,83.0
+387,Torino,9804.0,2008/2009,45,Balanced,Little,35,Mixed,Organised,40,Normal,30,Little,70,Lots,Free Form,45,Medium,35,Press,55,Normal,Cover,71.15,81.0
+388,Torino,9804.0,2014/2015,76,Fast,Lots,64,Mixed,Organised,64,Normal,72,Lots,53,Normal,Organised,39,Medium,34,Press,52,Normal,Cover,73.41,74.7
+389,Torino,9804.0,2015/2016,69,Fast,Lots,36,Mixed,Organised,37,Normal,69,Lots,53,Normal,Organised,39,Medium,46,Press,52,Normal,Cover,76.7375,74.875
+390,Lecce,9888.0,2008/2009,40,Balanced,Little,30,Short,Organised,45,Normal,60,Normal,70,Lots,Organised,30,Deep,70,Double,65,Normal,Cover,69.925,71.0
+391,Lecce,9888.0,2010/2011,50,Balanced,Little,50,Mixed,Organised,50,Normal,60,Normal,52,Normal,Organised,30,Deep,55,Press,65,Normal,Cover,68.56666666666666,70.0
+392,Lecce,9888.0,2011/2012,45,Balanced,Little,50,Mixed,Organised,50,Normal,50,Normal,35,Normal,Organised,35,Medium,55,Press,50,Normal,Cover,71.16666666666667,72.66666666666667
+393,Udinese,8600.0,2008/2009,64,Balanced,Little,35,Mixed,Organised,30,Safe,50,Normal,70,Lots,Organised,35,Medium,30,Contain,55,Normal,Offside Trap,76.7,78.0
+394,Udinese,8600.0,2009/2010,64,Balanced,Little,35,Mixed,Organised,30,Safe,50,Normal,70,Lots,Organised,35,Medium,30,Contain,55,Normal,Offside Trap,76.73333333333333,78.0
+395,Udinese,8600.0,2010/2011,70,Fast,Little,49,Mixed,Organised,66,Normal,50,Normal,50,Normal,Organised,44,Medium,45,Press,55,Normal,Offside Trap,76.83333333333333,75.0
+396,Udinese,8600.0,2011/2012,75,Fast,Little,45,Mixed,Organised,65,Normal,65,Normal,50,Normal,Organised,45,Medium,55,Press,50,Normal,Cover,76.63333333333334,82.0
+397,Udinese,8600.0,2014/2015,71,Fast,Lots,63,Mixed,Organised,69,Risky,78,Lots,52,Normal,Organised,40,Medium,46,Press,57,Normal,Cover,73.40833333333333,76.0
+398,Udinese,8600.0,2015/2016,68,Fast,Normal,63,Mixed,Organised,69,Risky,68,Lots,52,Normal,Organised,40,Medium,57,Press,57,Normal,Cover,74.85,78.0
+399,Palermo,8540.0,2008/2009,63,Balanced,Little,50,Mixed,Organised,30,Safe,30,Little,70,Lots,Organised,45,Medium,40,Press,60,Normal,Cover,75.3,79.0
+400,Palermo,8540.0,2009/2010,63,Balanced,Little,50,Mixed,Organised,30,Safe,30,Little,70,Lots,Organised,45,Medium,40,Press,60,Normal,Cover,76.4,77.0
+401,Palermo,8540.0,2010/2011,65,Balanced,Little,35,Mixed,Free Form,50,Normal,65,Normal,50,Normal,Organised,35,Medium,45,Press,50,Normal,Cover,76.74,77.9
+402,Palermo,8540.0,2011/2012,60,Balanced,Little,40,Mixed,Organised,50,Normal,35,Normal,65,Normal,Organised,45,Medium,45,Press,50,Normal,Cover,74.71666666666667,78.0
+403,Palermo,8540.0,2014/2015,66,Balanced,Normal,37,Mixed,Organised,56,Normal,34,Normal,63,Normal,Organised,43,Medium,42,Press,48,Normal,Cover,70.17777777777778,76.0
+404,Palermo,8540.0,2015/2016,66,Balanced,Normal,36,Mixed,Organised,60,Normal,34,Normal,64,Normal,Organised,44,Medium,58,Press,50,Normal,Cover,71.475,77.0
+405,Bari,9976.0,2009/2010,30,Slow,Little,30,Short,Free Form,30,Safe,40,Normal,65,Normal,Organised,40,Medium,30,Contain,45,Normal,Offside Trap,70.6,74.0
+406,Bari,9976.0,2010/2011,65,Balanced,Little,35,Mixed,Free Form,65,Normal,63,Normal,65,Normal,Organised,55,Medium,45,Press,60,Normal,Offside Trap,69.8,74.0
+407,Livorno,8537.0,2009/2010,30,Slow,Little,30,Short,Organised,30,Safe,30,Little,55,Normal,Organised,30,Deep,30,Contain,30,Narrow,Offside Trap,69.95,69.0
+408,Parma,10167.0,2010/2011,50,Balanced,Little,30,Short,Organised,48,Normal,55,Normal,65,Normal,Organised,45,Medium,47,Press,50,Normal,Cover,73.475,74.875
+409,Parma,10167.0,2011/2012,45,Balanced,Little,35,Mixed,Organised,50,Normal,65,Normal,50,Normal,Organised,45,Medium,45,Press,50,Normal,Offside Trap,73.95,71.5
+410,Parma,10167.0,2014/2015,48,Balanced,Lots,33,Short,Organised,69,Risky,62,Normal,45,Normal,Organised,54,Medium,66,Press,46,Normal,Offside Trap,70.96666666666667,77.0
+411,Cesena,9880.0,2010/2011,50,Balanced,Little,50,Mixed,Organised,35,Normal,35,Normal,50,Normal,Organised,35,Medium,55,Press,50,Normal,Cover,70.725,74.0
+412,Cesena,9880.0,2011/2012,60,Balanced,Little,40,Mixed,Organised,50,Normal,35,Normal,65,Normal,Organised,35,Medium,45,Press,50,Normal,Cover,71.70212765957447,72.8
+413,Cesena,9880.0,2014/2015,73,Fast,Little,41,Mixed,Organised,53,Normal,44,Normal,73,Lots,Organised,39,Medium,49,Press,57,Normal,Cover,67.08333333333333,70.8
+414,Brescia,9858.0,2010/2011,30,Slow,Little,50,Mixed,Organised,50,Normal,65,Normal,65,Normal,Organised,45,Medium,45,Press,55,Normal,Cover,69.1025641025641,70.5
+415,Novara,6269.0,2011/2012,55,Balanced,Little,50,Mixed,Organised,50,Normal,50,Normal,50,Normal,Organised,35,Medium,45,Press,50,Normal,Cover,68.20408163265306,68.4
+416,Hellas Verona,9876.0,2014/2015,63,Balanced,Normal,48,Mixed,Organised,39,Normal,54,Normal,55,Normal,Organised,31,Deep,47,Press,37,Normal,Cover,71.32727272727273,70.27272727272727
+417,Hellas Verona,9876.0,2015/2016,57,Balanced,Little,38,Mixed,Organised,39,Normal,54,Normal,55,Normal,Organised,47,Medium,59,Press,52,Normal,Cover,72.64,65.3
+418,Sassuolo,7943.0,2014/2015,57,Balanced,Lots,60,Mixed,Organised,66,Normal,57,Normal,63,Normal,Organised,54,Medium,47,Press,36,Normal,Offside Trap,71.2625,76.25
+419,Sassuolo,7943.0,2015/2016,57,Balanced,Normal,60,Mixed,Organised,56,Normal,57,Normal,56,Normal,Organised,38,Medium,47,Press,53,Normal,Cover,73.11666666666666,79.0
+420,Empoli,8534.0,2014/2015,63,Balanced,Normal,39,Mixed,Organised,66,Normal,67,Lots,51,Normal,Organised,53,Medium,57,Press,54,Normal,Cover,69.61666666666666,69.0
+421,Empoli,8534.0,2015/2016,66,Balanced,Normal,36,Mixed,Organised,59,Normal,64,Normal,63,Normal,Organised,46,Medium,66,Press,48,Normal,Cover,72.52857142857142,73.0
+422,Frosinone,9891.0,2015/2016,63,Balanced,Normal,46,Mixed,Organised,51,Normal,50,Normal,50,Normal,Organised,55,Medium,57,Press,47,Normal,Cover,68.24545454545455,72.18181818181819
+423,Carpi,208931.0,2015/2016,80,Fast,Normal,65,Mixed,Organised,70,Risky,40,Normal,50,Normal,Organised,25,Deep,55,Press,35,Normal,Cover,70.69090909090909,70.36363636363636
+424,Vitesse,8277.0,2015/2016,57,Balanced,Normal,48,Mixed,Free Form,53,Normal,37,Normal,71,Lots,Free Form,60,Medium,58,Press,62,Normal,Cover,70.7,74.0
+425,FC Groningen,8674.0,2015/2016,55,Balanced,Little,55,Mixed,Organised,57,Normal,59,Normal,54,Normal,Organised,49,Medium,47,Press,53,Normal,Cover,70.45714285714286,74.0
+426,Roda JC Kerkrade,9803.0,2015/2016,43,Balanced,Normal,44,Mixed,Organised,59,Normal,45,Normal,42,Normal,Organised,39,Medium,37,Press,42,Normal,Cover,66.58181818181818,68.0
+427,FC Twente,8611.0,2015/2016,48,Balanced,Normal,43,Mixed,Organised,43,Normal,58,Normal,39,Normal,Organised,44,Medium,41,Press,55,Normal,Cover,68.94615384615385,66.53846153846153
+428,Willem II,8525.0,2015/2016,51,Balanced,Normal,63,Mixed,Organised,48,Normal,53,Normal,52,Normal,Organised,43,Medium,45,Press,47,Normal,Cover,68.4375,69.0
+429,Ajax,8593.0,2011/2012,31,Slow,Little,33,Short,Organised,39,Normal,64,Normal,46,Normal,Free Form,68,High,65,Press,60,Normal,Cover,73.46666666666667,73.0
+430,Ajax,8593.0,2015/2016,35,Balanced,Normal,39,Mixed,Organised,58,Normal,55,Normal,30,Little,Free Form,64,Medium,53,Press,59,Normal,Cover,75.5125,81.0
+431,N.E.C.,8464.0,2015/2016,49,Balanced,Normal,59,Mixed,Organised,52,Normal,49,Normal,55,Normal,Organised,40,Medium,48,Press,53,Normal,Cover,67.68354430379746,66.5
+432,De Graafschap,8526.0,2015/2016,37,Balanced,Little,41,Mixed,Organised,47,Normal,40,Normal,63,Normal,Organised,52,Medium,43,Press,41,Normal,Cover,65.54545454545455,66.0
+433,FC Utrecht,9908.0,2015/2016,50,Balanced,Normal,54,Mixed,Organised,55,Normal,64,Normal,28,Little,Organised,54,Medium,58,Press,47,Normal,Cover,69.12857142857143,71.21428571428571
+434,PSV,8640.0,2011/2012,33,Slow,Little,42,Mixed,Organised,40,Normal,55,Normal,48,Normal,Organised,43,Medium,30,Contain,48,Normal,Cover,75.6,77.0
+435,PSV,8640.0,2015/2016,67,Fast,Normal,43,Mixed,Organised,53,Normal,44,Normal,28,Little,Organised,40,Medium,40,Press,48,Normal,Cover,76.45,78.0
+436,Heracles Almelo,9791.0,2015/2016,50,Balanced,Normal,61,Mixed,Organised,48,Normal,58,Normal,59,Normal,Organised,60,Medium,62,Press,47,Normal,Cover,68.71538461538462,69.0
+437,Feyenoord,10235.0,2011/2012,38,Balanced,Little,34,Mixed,Organised,60,Normal,44,Normal,50,Normal,Organised,43,Medium,43,Press,54,Normal,Cover,69.4,68.0
+438,Feyenoord,10235.0,2015/2016,50,Balanced,Little,48,Mixed,Organised,48,Normal,67,Lots,31,Little,Organised,43,Medium,46,Press,40,Normal,Cover,74.45333333333333,78.0
+439,ADO Den Haag,10217.0,2015/2016,56,Balanced,Normal,66,Mixed,Organised,55,Normal,52,Normal,38,Normal,Organised,40,Medium,50,Press,52,Normal,Cover,69.4,71.0
+440,SC Heerenveen,10228.0,2015/2016,54,Balanced,Normal,56,Mixed,Organised,65,Normal,43,Normal,44,Normal,Organised,46,Medium,44,Press,48,Normal,Cover,69.94017094017094,74.0
+441,AZ,10229.0,2015/2016,50,Balanced,Normal,58,Mixed,Organised,67,Risky,56,Normal,50,Normal,Organised,50,Medium,61,Press,55,Normal,Cover,71.08,68.0
+442,Excelsior,10218.0,2015/2016,53,Balanced,Normal,69,Long,Organised,48,Normal,45,Normal,43,Normal,Organised,29,Deep,41,Press,36,Normal,Cover,67.17333333333333,64.53333333333333
+443,PEC Zwolle,6413.0,2015/2016,45,Balanced,Normal,56,Mixed,Organised,57,Normal,50,Normal,58,Normal,Organised,58,Medium,60,Press,63,Normal,Cover,68.84545454545454,66.45454545454545
+444,SC Cambuur,7788.0,2015/2016,43,Balanced,Normal,57,Mixed,Organised,46,Normal,50,Normal,38,Normal,Organised,42,Medium,49,Press,47,Normal,Cover,65.90833333333333,64.66666666666667
+445,Valencia CF,10267.0,2008/2009,30,Slow,Little,30,Short,Free Form,55,Normal,60,Normal,70,Lots,Organised,55,Medium,60,Press,60,Normal,Offside Trap,80.35955056179775,74.88888888888889
+446,Valencia CF,10267.0,2009/2010,30,Slow,Little,30,Short,Free Form,55,Normal,60,Normal,70,Lots,Organised,55,Medium,60,Press,60,Normal,Offside Trap,80.4,76.875
+447,Valencia CF,10267.0,2010/2011,41,Balanced,Little,40,Mixed,Organised,56,Normal,55,Normal,64,Normal,Free Form,40,Medium,48,Press,54,Normal,Cover,78.6,78.0
+448,Valencia CF,10267.0,2011/2012,20,Slow,Little,35,Mixed,Organised,38,Normal,56,Normal,55,Normal,Organised,51,Medium,38,Press,59,Normal,Cover,77.7,79.4
+449,Valencia CF,10267.0,2014/2015,30,Slow,Normal,35,Mixed,Organised,38,Normal,56,Normal,55,Normal,Organised,51,Medium,38,Press,59,Normal,Cover,78.60909090909091,82.0
+450,Valencia CF,10267.0,2015/2016,35,Balanced,Normal,35,Mixed,Organised,37,Normal,51,Normal,58,Normal,Organised,49,Medium,45,Press,53,Normal,Cover,79.05333333333333,76.66666666666667
+451,RCD Mallorca,8661.0,2008/2009,40,Balanced,Little,40,Mixed,Organised,50,Normal,40,Normal,50,Normal,Free Form,45,Medium,40,Press,45,Normal,Offside Trap,74.4,75.6
+452,RCD Mallorca,8661.0,2009/2010,40,Balanced,Little,40,Mixed,Organised,50,Normal,40,Normal,50,Normal,Free Form,45,Medium,40,Press,45,Normal,Offside Trap,75.35955056179775,78.0
+453,RCD Mallorca,8661.0,2010/2011,53,Balanced,Little,52,Mixed,Organised,55,Normal,52,Normal,53,Normal,Free Form,47,Medium,48,Press,55,Normal,Cover,74.02631578947368,78.0
+454,RCD Mallorca,8661.0,2011/2012,58,Balanced,Little,57,Mixed,Organised,53,Normal,57,Normal,53,Normal,Organised,59,Medium,41,Press,56,Normal,Cover,71.6,77.0
+455,CA Osasuna,8371.0,2008/2009,35,Balanced,Little,35,Mixed,Organised,45,Normal,65,Normal,55,Normal,Free Form,30,Deep,65,Press,55,Normal,Cover,69.85,65.0
+456,CA Osasuna,8371.0,2009/2010,35,Balanced,Little,35,Mixed,Organised,45,Normal,65,Normal,55,Normal,Free Form,30,Deep,65,Press,55,Normal,Cover,74.55172413793103,75.0
+457,CA Osasuna,8371.0,2010/2011,55,Balanced,Little,54,Mixed,Organised,56,Normal,69,Lots,68,Lots,Free Form,48,Medium,61,Press,68,Wide,Cover,74.01666666666667,75.0
+458,CA Osasuna,8371.0,2011/2012,34,Balanced,Little,52,Mixed,Organised,55,Normal,59,Normal,54,Normal,Organised,47,Medium,52,Press,69,Wide,Cover,71.9,72.75
+459,Villarreal CF,10205.0,2008/2009,64,Balanced,Little,30,Short,Free Form,55,Normal,35,Normal,70,Lots,Free Form,65,Medium,30,Contain,70,Wide,Offside Trap,78.4,83.0
+460,Villarreal CF,10205.0,2009/2010,64,Balanced,Little,30,Short,Free Form,55,Normal,35,Normal,70,Lots,Free Form,65,Medium,30,Contain,70,Wide,Offside Trap,78.1,84.0
+461,Villarreal CF,10205.0,2010/2011,42,Balanced,Little,41,Mixed,Free Form,53,Normal,38,Normal,70,Lots,Free Form,50,Medium,48,Press,54,Normal,Cover,77.98333333333333,83.0
+462,Villarreal CF,10205.0,2011/2012,20,Slow,Little,26,Short,Organised,43,Normal,57,Normal,58,Normal,Organised,51,Medium,51,Press,56,Normal,Cover,76.2,81.66666666666667
+463,Villarreal CF,10205.0,2014/2015,35,Balanced,Normal,35,Mixed,Organised,43,Normal,57,Normal,58,Normal,Organised,51,Medium,51,Press,56,Normal,Cover,75.04545454545455,79.0
+464,Villarreal CF,10205.0,2015/2016,48,Balanced,Normal,36,Mixed,Free Form,36,Normal,52,Normal,55,Normal,Free Form,47,Medium,48,Press,44,Normal,Cover,78.01818181818182,78.27272727272727
+465,RC Deportivo de La Coruña,9783.0,2008/2009,30,Slow,Little,30,Short,Organised,30,Safe,45,Normal,65,Normal,Organised,35,Medium,35,Press,45,Normal,Offside Trap,74.3,73.6
+466,RC Deportivo de La Coruña,9783.0,2009/2010,30,Slow,Little,30,Short,Organised,30,Safe,45,Normal,65,Normal,Organised,35,Medium,35,Press,45,Normal,Offside Trap,75.3425925925926,78.0909090909091
+467,RC Deportivo de La Coruña,9783.0,2010/2011,56,Balanced,Little,42,Mixed,Organised,57,Normal,69,Lots,61,Normal,Organised,38,Medium,44,Press,69,Wide,Cover,73.225,75.5
+468,RC Deportivo de La Coruña,9783.0,2014/2015,56,Balanced,Normal,46,Mixed,Organised,38,Normal,52,Normal,68,Lots,Organised,45,Medium,50,Press,59,Normal,Cover,72.15,73.5
+469,RC Deportivo de La Coruña,9783.0,2015/2016,53,Balanced,Normal,47,Mixed,Organised,38,Normal,52,Normal,55,Normal,Organised,45,Medium,50,Press,59,Normal,Offside Trap,75.2,74.33333333333333
+470,Real Madrid CF,8633.0,2008/2009,55,Balanced,Little,30,Short,Free Form,70,Risky,60,Normal,70,Lots,Free Form,65,Medium,40,Press,65,Normal,Offside Trap,81.76582278481013,91.0
+471,Real Madrid CF,8633.0,2009/2010,55,Balanced,Little,30,Short,Free Form,70,Risky,60,Normal,70,Lots,Free Form,65,Medium,40,Press,65,Normal,Offside Trap,82.67857142857143,90.0
+472,Real Madrid CF,8633.0,2010/2011,54,Balanced,Little,39,Mixed,Free Form,67,Risky,60,Normal,67,Lots,Free Form,68,High,55,Press,55,Normal,Cover,83.42,86.0
+473,Real Madrid CF,8633.0,2011/2012,45,Balanced,Little,35,Mixed,Free Form,71,Risky,54,Normal,73,Lots,Free Form,49,Medium,60,Press,68,Wide,Cover,84.58,89.0
+474,Real Madrid CF,8633.0,2013/2014,50,Balanced,Little,41,Mixed,Organised,68,Risky,54,Normal,72,Lots,Free Form,39,Medium,49,Press,65,Normal,Cover,84.5,84.0
+475,Real Madrid CF,8633.0,2014/2015,50,Balanced,Normal,41,Mixed,Organised,68,Risky,54,Normal,69,Lots,Free Form,39,Medium,49,Press,65,Normal,Cover,84.16923076923077,83.42307692307692
+476,Real Madrid CF,8633.0,2015/2016,50,Balanced,Normal,46,Mixed,Free Form,61,Normal,41,Normal,63,Normal,Free Form,52,Medium,60,Press,63,Normal,Cover,84.675,82.0
+477,CD Numancia,8388.0,2008/2009,55,Balanced,Little,40,Mixed,Organised,50,Normal,55,Normal,55,Normal,Organised,30,Deep,55,Press,55,Normal,Offside Trap,69.875,71.0
+478,FC Barcelona,8634.0,2008/2009,42,Balanced,Little,30,Short,Free Form,65,Normal,40,Normal,70,Lots,Free Form,70,High,30,Contain,70,Wide,Offside Trap,83.26829268292683,81.41176470588235
+479,FC Barcelona,8634.0,2009/2010,42,Balanced,Little,30,Short,Free Form,65,Normal,40,Normal,70,Lots,Free Form,70,High,30,Contain,70,Wide,Offside Trap,83.70560747663552,84.0
+480,FC Barcelona,8634.0,2010/2011,43,Balanced,Little,34,Mixed,Free Form,59,Normal,25,Little,68,Lots,Free Form,67,High,43,Press,68,Wide,Cover,82.85833333333333,84.0
+481,FC Barcelona,8634.0,2011/2012,24,Slow,Little,25,Short,Free Form,37,Normal,24,Little,54,Normal,Free Form,66,Medium,63,Press,66,Normal,Cover,85.37142857142857,83.14285714285714
+482,FC Barcelona,8634.0,2013/2014,35,Balanced,Little,32,Short,Free Form,37,Normal,31,Little,35,Normal,Free Form,61,Medium,63,Press,65,Normal,Cover,85.7,83.0
+483,FC Barcelona,8634.0,2014/2015,35,Balanced,Normal,32,Short,Free Form,37,Normal,31,Little,35,Normal,Free Form,61,Medium,63,Press,65,Normal,Cover,84.02777777777777,82.27777777777777
+484,FC Barcelona,8634.0,2015/2016,36,Balanced,Normal,51,Mixed,Free Form,36,Normal,49,Normal,56,Normal,Free Form,61,Medium,65,Press,65,Normal,Cover,85.37647058823529,82.76470588235294
+485,Racing Santander,8696.0,2008/2009,45,Balanced,Little,55,Mixed,Organised,70,Risky,70,Lots,65,Normal,Free Form,45,Medium,55,Press,50,Normal,Cover,72.15,79.0
+486,Racing Santander,8696.0,2009/2010,45,Balanced,Little,55,Mixed,Organised,70,Risky,70,Lots,65,Normal,Free Form,45,Medium,55,Press,50,Normal,Cover,72.46666666666667,73.66666666666667
+487,Racing Santander,8696.0,2010/2011,53,Balanced,Little,56,Mixed,Organised,73,Risky,72,Lots,39,Normal,Organised,47,Medium,37,Press,53,Normal,Cover,73.05,75.0
+488,Racing Santander,8696.0,2011/2012,43,Balanced,Little,44,Mixed,Organised,61,Normal,71,Lots,50,Normal,Organised,50,Medium,50,Press,68,Wide,Cover,71.025,76.0
+489,Sevilla FC,8302.0,2008/2009,30,Slow,Little,30,Short,Free Form,70,Risky,60,Normal,70,Lots,Free Form,60,Medium,70,Double,65,Normal,Offside Trap,78.28333333333333,80.41666666666667
+490,Sevilla FC,8302.0,2009/2010,30,Slow,Little,30,Short,Free Form,70,Risky,60,Normal,70,Lots,Free Form,60,Medium,70,Double,65,Normal,Offside Trap,78.27142857142857,81.28571428571429
+491,Sevilla FC,8302.0,2010/2011,68,Fast,Little,58,Mixed,Free Form,68,Risky,67,Lots,71,Lots,Free Form,57,Medium,58,Press,68,Wide,Cover,77.64,77.0
+492,Sevilla FC,8302.0,2011/2012,61,Balanced,Little,65,Mixed,Organised,53,Normal,57,Normal,38,Normal,Organised,38,Medium,49,Press,55,Normal,Cover,77.61666666666666,78.0
+493,Sevilla FC,8302.0,2014/2015,65,Balanced,Normal,65,Mixed,Organised,53,Normal,57,Normal,38,Normal,Organised,38,Medium,49,Press,55,Normal,Cover,77.54666666666667,71.6
+494,Sevilla FC,8302.0,2015/2016,53,Balanced,Normal,53,Mixed,Organised,53,Normal,52,Normal,60,Normal,Organised,42,Medium,48,Press,59,Normal,Cover,78.11666666666666,76.66666666666667
+495,Real Sporting de Gijón,9869.0,2008/2009,70,Fast,Little,55,Mixed,Organised,65,Normal,50,Normal,70,Lots,Organised,70,High,70,Double,55,Normal,Cover,66.70833333333333,69.25
+496,Real Sporting de Gijón,9869.0,2009/2010,70,Fast,Little,55,Mixed,Organised,65,Normal,50,Normal,70,Lots,Organised,70,High,70,Double,55,Normal,Cover,72.71186440677967,76.0
+497,Real Sporting de Gijón,9869.0,2010/2011,68,Fast,Little,53,Mixed,Organised,67,Risky,51,Normal,65,Normal,Organised,58,Medium,51,Press,55,Normal,Cover,73.0,73.0
+498,Real Sporting de Gijón,9869.0,2011/2012,51,Balanced,Little,43,Mixed,Organised,68,Risky,61,Normal,44,Normal,Organised,36,Medium,60,Press,39,Normal,Cover,72.38571428571429,73.0
+499,Real Sporting de Gijón,9869.0,2015/2016,55,Balanced,Normal,50,Mixed,Organised,62,Normal,59,Normal,38,Normal,Organised,45,Medium,54,Press,41,Normal,Cover,73.11842105263158,76.0
+500,Getafe CF,8305.0,2008/2009,30,Slow,Little,35,Mixed,Organised,35,Normal,50,Normal,70,Lots,Free Form,40,Medium,30,Contain,50,Normal,Offside Trap,75.7,79.66666666666667
+501,Getafe CF,8305.0,2009/2010,30,Slow,Little,35,Mixed,Organised,35,Normal,50,Normal,70,Lots,Free Form,40,Medium,30,Contain,50,Normal,Offside Trap,75.3076923076923,74.5
+502,Getafe CF,8305.0,2010/2011,54,Balanced,Little,45,Mixed,Organised,38,Normal,54,Normal,57,Normal,Organised,59,Medium,39,Press,66,Normal,Cover,75.025,74.0
+503,Getafe CF,8305.0,2011/2012,25,Slow,Little,40,Mixed,Organised,58,Normal,42,Normal,52,Normal,Organised,49,Medium,45,Press,47,Normal,Cover,74.16666666666667,75.0
+504,Getafe CF,8305.0,2014/2015,35,Balanced,Normal,40,Mixed,Organised,58,Normal,42,Normal,52,Normal,Organised,49,Medium,45,Press,47,Normal,Cover,71.53846153846153,75.92307692307692
+505,Getafe CF,8305.0,2015/2016,34,Balanced,Normal,38,Mixed,Organised,55,Normal,39,Normal,49,Normal,Organised,43,Medium,42,Press,49,Normal,Cover,74.09243697478992,77.0
+506,Real Betis Balompié,8603.0,2008/2009,45,Balanced,Little,45,Mixed,Organised,30,Safe,50,Normal,55,Normal,Free Form,50,Medium,45,Press,55,Normal,Offside Trap,72.3,73.66666666666667
+507,Real Betis Balompié,8603.0,2011/2012,55,Balanced,Little,37,Mixed,Organised,59,Normal,43,Normal,53,Normal,Organised,58,Medium,49,Press,58,Normal,Cover,72.43333333333334,71.66666666666667
+508,Real Betis Balompié,8603.0,2015/2016,59,Balanced,Normal,37,Mixed,Organised,59,Normal,43,Normal,53,Normal,Organised,58,Medium,49,Press,58,Normal,Cover,74.51818181818182,77.0
+509,RC Recreativo,8479.0,2008/2009,50,Balanced,Little,40,Mixed,Organised,40,Normal,40,Normal,50,Normal,Organised,35,Medium,55,Press,40,Normal,Cover,72.53488372093024,71.0
+510,RCD Espanyol,8558.0,2008/2009,55,Balanced,Little,40,Mixed,Organised,70,Risky,55,Normal,70,Lots,Organised,70,High,50,Press,60,Normal,Cover,74.85,81.0
+511,RCD Espanyol,8558.0,2009/2010,55,Balanced,Little,40,Mixed,Organised,70,Risky,55,Normal,70,Lots,Organised,70,High,50,Press,60,Normal,Cover,71.34,78.2
+512,RCD Espanyol,8558.0,2010/2011,68,Fast,Little,55,Mixed,Organised,72,Risky,70,Lots,54,Normal,Organised,51,Medium,58,Press,56,Normal,Cover,73.5,82.0
+513,RCD Espanyol,8558.0,2011/2012,46,Balanced,Little,44,Mixed,Organised,52,Normal,60,Normal,40,Normal,Organised,37,Medium,40,Press,45,Normal,Cover,74.16666666666667,75.5
+514,RCD Espanyol,8558.0,2014/2015,50,Balanced,Normal,44,Mixed,Organised,52,Normal,60,Normal,40,Normal,Organised,37,Medium,40,Press,45,Normal,Cover,71.56666666666666,80.0
+515,RCD Espanyol,8558.0,2015/2016,50,Balanced,Normal,44,Mixed,Organised,52,Normal,60,Normal,40,Normal,Free Form,37,Medium,40,Press,45,Normal,Cover,74.53333333333333,70.0
+516,Real Valladolid,10281.0,2008/2009,55,Balanced,Little,40,Mixed,Organised,45,Normal,30,Little,60,Normal,Organised,30,Deep,65,Press,30,Narrow,Cover,73.05,76.0
+517,Real Valladolid,10281.0,2009/2010,55,Balanced,Little,40,Mixed,Organised,45,Normal,30,Little,60,Normal,Organised,30,Deep,65,Press,30,Narrow,Cover,73.03448275862068,71.33333333333333
+518,Athletic Club de Bilbao,8315.0,2008/2009,60,Balanced,Little,45,Mixed,Organised,35,Normal,70,Lots,55,Normal,Organised,30,Deep,70,Double,35,Normal,Cover,70.0,76.0
+519,Athletic Club de Bilbao,8315.0,2009/2010,60,Balanced,Little,45,Mixed,Organised,35,Normal,70,Lots,55,Normal,Organised,30,Deep,70,Double,35,Normal,Cover,75.47142857142858,79.0
+520,Athletic Club de Bilbao,8315.0,2010/2011,70,Fast,Little,69,Long,Organised,55,Normal,72,Lots,57,Normal,Organised,48,Medium,67,Double,55,Normal,Cover,76.05,81.0
+521,Athletic Club de Bilbao,8315.0,2011/2012,42,Balanced,Little,59,Mixed,Organised,36,Normal,78,Lots,59,Normal,Organised,37,Medium,60,Press,68,Wide,Cover,74.5,81.0
+522,Athletic Club de Bilbao,8315.0,2014/2015,46,Balanced,Normal,38,Mixed,Organised,52,Normal,68,Lots,37,Normal,Organised,37,Medium,60,Press,65,Normal,Cover,77.87,78.0
+523,Athletic Club de Bilbao,8315.0,2015/2016,46,Balanced,Normal,39,Mixed,Organised,50,Normal,60,Normal,36,Normal,Free Form,49,Medium,57,Press,50,Normal,Cover,78.925,79.0
+524,UD Almería,9865.0,2008/2009,65,Balanced,Little,45,Mixed,Organised,45,Normal,45,Normal,70,Lots,Organised,70,High,65,Press,30,Narrow,Cover,72.2,81.0
+525,UD Almería,9865.0,2009/2010,65,Balanced,Little,45,Mixed,Organised,45,Normal,45,Normal,70,Lots,Organised,70,High,65,Press,30,Narrow,Cover,72.53333333333333,80.0
+526,UD Almería,9865.0,2010/2011,55,Balanced,Little,53,Mixed,Organised,57,Normal,54,Normal,69,Lots,Organised,58,Medium,68,Double,67,Wide,Cover,73.0,82.0
+527,UD Almería,9865.0,2014/2015,46,Balanced,Normal,65,Mixed,Organised,57,Normal,54,Normal,40,Normal,Organised,37,Medium,53,Press,45,Normal,Cover,71.1,73.72727272727273
+528,Atlético Madrid,9906.0,2008/2009,64,Balanced,Little,30,Short,Free Form,65,Normal,50,Normal,70,Lots,Free Form,70,High,34,Press,55,Normal,Offside Trap,78.9,79.0
+529,Atlético Madrid,9906.0,2009/2010,64,Balanced,Little,30,Short,Free Form,65,Normal,50,Normal,70,Lots,Free Form,70,High,34,Press,55,Normal,Offside Trap,76.92753623188406,73.14285714285714
+530,Atlético Madrid,9906.0,2010/2011,57,Balanced,Little,54,Mixed,Organised,58,Normal,69,Lots,79,Lots,Organised,58,Medium,48,Press,54,Normal,Cover,79.36666666666666,80.0
+531,Atlético Madrid,9906.0,2011/2012,47,Balanced,Little,51,Mixed,Organised,67,Risky,63,Normal,54,Normal,Organised,52,Medium,37,Press,55,Normal,Cover,78.24,76.0
+532,Atlético Madrid,9906.0,2014/2015,47,Balanced,Normal,51,Mixed,Organised,67,Risky,67,Lots,54,Normal,Organised,52,Medium,37,Press,55,Normal,Cover,80.6,79.45454545454545
+533,Atlético Madrid,9906.0,2015/2016,57,Balanced,Normal,50,Mixed,Organised,61,Normal,62,Normal,49,Normal,Organised,49,Medium,42,Press,52,Normal,Cover,80.6,82.0
+534,Málaga CF,9864.0,2008/2009,60,Balanced,Little,55,Mixed,Organised,40,Normal,45,Normal,70,Lots,Organised,45,Medium,65,Press,45,Normal,Cover,69.71428571428571,64.85714285714286
+535,Málaga CF,9864.0,2009/2010,60,Balanced,Little,55,Mixed,Organised,40,Normal,45,Normal,70,Lots,Organised,45,Medium,65,Press,45,Normal,Cover,72.41666666666667,73.0
+536,Málaga CF,9864.0,2010/2011,58,Balanced,Little,54,Mixed,Organised,54,Normal,55,Normal,61,Normal,Organised,45,Medium,47,Press,54,Normal,Cover,71.45,68.0
+537,Málaga CF,9864.0,2011/2012,41,Balanced,Little,36,Mixed,Organised,72,Risky,69,Lots,50,Normal,Organised,64,Medium,58,Press,42,Normal,Cover,77.32,73.4
+538,Málaga CF,9864.0,2014/2015,45,Balanced,Normal,36,Mixed,Organised,69,Risky,69,Lots,50,Normal,Organised,64,Medium,58,Press,42,Normal,Cover,72.44,74.0
+539,Málaga CF,9864.0,2015/2016,42,Balanced,Normal,36,Mixed,Organised,41,Normal,40,Normal,50,Normal,Organised,47,Medium,37,Press,52,Normal,Offside Trap,74.93,79.0
+540,Xerez Club Deportivo,9868.0,2009/2010,30,Slow,Little,30,Short,Organised,45,Normal,35,Normal,70,Lots,Organised,45,Medium,50,Press,45,Normal,Cover,69.66666666666667,76.0
+541,Real Zaragoza,8394.0,2009/2010,30,Slow,Little,30,Short,Free Form,50,Normal,35,Normal,70,Lots,Organised,40,Medium,30,Contain,45,Normal,Offside Trap,73.2,71.25
+542,Real Zaragoza,8394.0,2010/2011,43,Balanced,Little,40,Mixed,Organised,46,Normal,38,Normal,42,Normal,Organised,38,Medium,40,Press,53,Normal,Cover,71.35,72.5
+543,Real Zaragoza,8394.0,2011/2012,34,Balanced,Little,23,Short,Organised,53,Normal,56,Normal,57,Normal,Organised,51,Medium,46,Press,61,Normal,Cover,71.64,78.0
+544,CD Tenerife,9867.0,2009/2010,30,Slow,Little,30,Short,Organised,45,Normal,30,Little,65,Normal,Organised,50,Medium,30,Contain,45,Normal,Cover,70.91891891891892,75.0
+545,Hércules Club de Fútbol,10278.0,2010/2011,54,Balanced,Little,55,Mixed,Organised,53,Normal,40,Normal,59,Normal,Organised,48,Medium,58,Press,53,Normal,Cover,73.16666666666667,76.0
+546,Levante UD,8581.0,2010/2011,68,Fast,Little,56,Mixed,Organised,69,Risky,55,Normal,58,Normal,Organised,37,Medium,47,Press,54,Normal,Cover,70.89090909090909,72.0
+547,Levante UD,8581.0,2011/2012,53,Balanced,Little,63,Mixed,Organised,55,Normal,61,Normal,52,Normal,Organised,47,Medium,52,Press,56,Normal,Cover,73.56666666666666,74.0
+548,Levante UD,8581.0,2014/2015,57,Balanced,Normal,63,Mixed,Organised,55,Normal,61,Normal,52,Normal,Organised,47,Medium,52,Press,56,Normal,Cover,72.86666666666666,71.86666666666666
+549,Levante UD,8581.0,2015/2016,62,Balanced,Normal,65,Mixed,Organised,71,Risky,42,Normal,65,Normal,Organised,36,Medium,33,Contain,42,Normal,Cover,74.15,73.3
+550,Real Sociedad,8560.0,2010/2011,54,Balanced,Little,43,Mixed,Organised,54,Normal,51,Normal,60,Normal,Organised,49,Medium,49,Press,51,Normal,Cover,73.56666666666666,79.0
+551,Real Sociedad,8560.0,2011/2012,24,Slow,Little,36,Mixed,Organised,60,Normal,52,Normal,59,Normal,Organised,48,Medium,53,Press,70,Wide,Cover,72.45,78.0
+552,Real Sociedad,8560.0,2014/2015,35,Balanced,Normal,36,Mixed,Organised,60,Normal,52,Normal,59,Normal,Organised,48,Medium,53,Press,65,Normal,Cover,75.85333333333334,73.66666666666667
+553,Real Sociedad,8560.0,2015/2016,60,Balanced,Normal,50,Mixed,Organised,54,Normal,60,Normal,52,Normal,Organised,49,Medium,53,Press,53,Normal,Cover,75.35833333333333,79.0
+554,Granada CF,7878.0,2011/2012,48,Balanced,Little,37,Mixed,Organised,72,Risky,76,Lots,52,Normal,Organised,49,Medium,45,Press,68,Wide,Cover,72.175,74.0
+555,Granada CF,7878.0,2014/2015,52,Balanced,Normal,37,Mixed,Organised,67,Risky,68,Lots,52,Normal,Organised,49,Medium,45,Press,64,Normal,Cover,72.32773109243698,71.91666666666667
+556,Granada CF,7878.0,2015/2016,57,Balanced,Normal,59,Mixed,Organised,61,Normal,63,Normal,51,Normal,Organised,48,Medium,45,Press,62,Normal,Cover,73.00909090909092,77.0
+557,Rayo Vallecano,8370.0,2011/2012,41,Balanced,Little,44,Mixed,Organised,44,Normal,44,Normal,47,Normal,Organised,63,Medium,51,Press,59,Normal,Cover,71.65517241379311,71.0
+558,Rayo Vallecano,8370.0,2014/2015,45,Balanced,Normal,44,Mixed,Organised,44,Normal,44,Normal,47,Normal,Organised,63,Medium,51,Press,59,Normal,Cover,73.61320754716981,72.72727272727273
+559,Rayo Vallecano,8370.0,2015/2016,29,Slow,Normal,44,Mixed,Organised,44,Normal,44,Normal,47,Normal,Organised,54,Medium,52,Press,63,Normal,Cover,73.1375,70.25
+560,RC Celta de Vigo,9910.0,2014/2015,53,Balanced,Normal,62,Mixed,Organised,59,Normal,68,Lots,52,Normal,Organised,42,Medium,52,Press,65,Normal,Cover,73.8062015503876,74.0
+561,RC Celta de Vigo,9910.0,2015/2016,55,Balanced,Normal,38,Mixed,Organised,41,Normal,48,Normal,50,Normal,Free Form,55,Medium,55,Press,59,Normal,Cover,76.36153846153846,74.15384615384616
+562,Elche CF,10268.0,2014/2015,55,Balanced,Normal,69,Long,Organised,53,Normal,54,Normal,57,Normal,Organised,49,Medium,51,Press,58,Normal,Cover,72.00833333333334,75.0
+563,SD Eibar,8372.0,2014/2015,62,Balanced,Normal,52,Mixed,Organised,60,Normal,55,Normal,64,Normal,Organised,37,Medium,56,Press,49,Normal,Cover,70.925,75.0
+564,SD Eibar,8372.0,2015/2016,62,Balanced,Normal,52,Mixed,Organised,59,Normal,55,Normal,52,Normal,Organised,37,Medium,56,Press,49,Normal,Cover,72.38333333333334,71.33333333333333
+565,Córdoba CF,7869.0,2014/2015,40,Balanced,Normal,53,Mixed,Organised,40,Normal,66,Normal,48,Normal,Organised,36,Medium,41,Press,52,Normal,Cover,69.87692307692308,66.92307692307692
+566,UD Las Palmas,8306.0,2015/2016,48,Balanced,Normal,44,Mixed,Organised,53,Normal,42,Normal,53,Normal,Organised,53,Medium,39,Press,57,Normal,Cover,71.37962962962963,73.0909090909091
